@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "version": 9,
-  "builtAt": "2026-06-04T12:29:30.607Z",
+  "version": 10,
+  "builtAt": "2026-06-04T12:33:35.866Z",
   "presets": [
     {
       "id": "sys_default",
-      "name": "Ada是只沙雕",
+      "name": "默认助手",
       "files": {
         "ose.agent.json": {
-          "md5": "792e7dd5cef47afd94619ff6e13112af"
+          "md5": "923361055c5dc9a6cc50b1c5d2e5804b"
         },
         "ose.role.md": {
           "md5": "9d704c9e7c11e50c41f0abbf150dbb13"
