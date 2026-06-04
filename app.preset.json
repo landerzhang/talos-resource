@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 6,
-  "builtAt": "2026-06-04T12:17:46.819Z",
+  "version": 7,
+  "builtAt": "2026-06-04T12:21:46.049Z",
   "presets": [
     {
       "id": "sys_default",
@@ -35,10 +35,10 @@
           "md5": "ca638ba7022728ab5130ac1489915a24"
         },
         "ose.role.md": {
-          "md5": "9d704c9e7c11e50c41f0abbf150dbb13"
+          "md5": "dff8d4b249d0a1cd9718ea0fbef6c3c3"
         },
         "ose.settings.json": {
-          "md5": "2b400f04ff98a1e704de5c0e0616ddcc"
+          "md5": "6d99cd4e220b5924d84fba48254bdbd4"
         },
         "ose.mcp.json": {
           "md5": "f1a2178d8734723abb435a3141edfa1e"
