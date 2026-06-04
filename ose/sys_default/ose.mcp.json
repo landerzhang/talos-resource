@@ -1,11 +1,20 @@
 {
   "version": 1,
   "servers": {
-    "github": {
+    "filesystem": {
+      "enabled": true,
+      "transport": "stdio",
+      "command": "npx",
+      "args": [
+        "@mcp/filesystem",
+        "~/workspace"
+      ]
+    },
+    "notion": {
       "enabled": true,
       "transport": "http",
-      "url": "https://mcp.github.com/v1",
-      "auth": "OAuth"
+      "url": "https://mcp.notion.so/v1",
+      "auth": "Integration"
     }
   }
 }

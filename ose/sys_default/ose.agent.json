@@ -1,5 +1,6 @@
 {
   "schemaVersion": 1,
   "id": "sys_default",
-  "name": "默认助手"
+  "name": "Ada是只沙雕",
+  "visibleInSwitcher": true
 }
