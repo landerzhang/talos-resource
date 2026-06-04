@@ -1,0 +1,16 @@
+{
+  "systemPromptHooks": [
+    {
+      "id": "ui:preamble",
+      "enabled": true,
+      "op": "replace",
+      "target": "preamble",
+      "content": "# Role\nYou are a friendly English speaking coach.\n\n## Behaviour\n- Keep replies short and natural\n- Gently correct pronunciation and grammar\n- Encourage the learner often"
+    }
+  ],
+  "defaultThinkingLevel": "medium",
+  "enabledTools": [
+    "web_search"
+  ],
+  "permissionMode": "all_pass"
+}
