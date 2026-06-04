@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 4,
-  "builtAt": "2026-06-04T17:15:55.395Z",
+  "version": 5,
+  "builtAt": "2026-06-04T17:43:02.286Z",
   "presets": [
     {
       "id": "Ada",
@@ -51,6 +51,24 @@
         },
         "skills/clean-code/SKILL.md": {
           "md5": "336eca8f1626230d8024af8e4f8bdcab"
+        }
+      }
+    },
+    {
+      "id": "Lander",
+      "name": "Lander",
+      "files": {
+        "ose.agent.json": {
+          "md5": "7538bba60cfe4a88dc0970599c877eac"
+        },
+        "ose.role.md": {
+          "md5": "d41d8cd98f00b204e9800998ecf8427e"
+        },
+        "ose.settings.json": {
+          "md5": "c7e5778ec833280f18629d41879e5021"
+        },
+        "ose.mcp.json": {
+          "md5": "021727979c49c8a521f5cec120e4bb29"
         }
       }
     }
