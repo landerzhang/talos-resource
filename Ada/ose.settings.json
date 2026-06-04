@@ -8,11 +8,11 @@
       "content": "你是一只沙雕"
     }
   ],
-  "defaultThinkingLevel": "medium",
   "enabledTools": [
     "fact_feedback",
+    "fact_store",
     "memory",
-    "voice_brief"
-  ],
-  "permissionMode": "all_pass"
+    "voice_brief",
+    "web_search"
+  ]
 }

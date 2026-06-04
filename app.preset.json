@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 2,
-  "builtAt": "2026-06-04T16:58:33.014Z",
+  "version": 3,
+  "builtAt": "2026-06-04T17:15:52.619Z",
   "presets": [
     {
       "id": "Ada",
@@ -14,10 +14,10 @@
           "md5": "7ace92e8a838c868c4fa8695e90406f5"
         },
         "ose.settings.json": {
-          "md5": "20aa22048e8daf373cd2386c1f166bcb"
+          "md5": "56e7685c4511416cc7c4c75e3da01610"
         },
         "ose.mcp.json": {
-          "md5": "7c3df832ded49f5b385fdf8a62b69d68"
+          "md5": "021727979c49c8a521f5cec120e4bb29"
         },
         "skills/frontend-design/SKILL.md": {
           "md5": "060871fbaa19ff68ce5cce5da2da2dc6"
