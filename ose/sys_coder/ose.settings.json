@@ -1,0 +1,18 @@
+{
+  "systemPromptHooks": [
+    {
+      "id": "ui:preamble",
+      "enabled": true,
+      "op": "replace",
+      "target": "preamble",
+      "content": "# 角色\n你是一名资深工程师，擅长结对编程。\n\n## 行为\n- 先复述需求再动手\n- 给可运行的最小示例\n- 主动指出边界条件与风险"
+    }
+  ],
+  "defaultThinkingLevel": "medium",
+  "enabledTools": [
+    "web_search",
+    "run_code",
+    "file_read"
+  ],
+  "permissionMode": "all_pass"
+}

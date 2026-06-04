@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 10,
-  "builtAt": "2026-06-04T12:33:35.866Z",
+  "version": 11,
+  "builtAt": "2026-06-04T12:33:38.298Z",
   "presets": [
     {
       "id": "sys_default",
@@ -48,6 +48,27 @@
         },
         "skills/行程规划/SKILL.md": {
           "md5": "68797c11c79a4520a039fc003a66fe63"
+        }
+      }
+    },
+    {
+      "id": "sys_coder",
+      "name": "编程伙伴",
+      "files": {
+        "ose.agent.json": {
+          "md5": "073edfb1905c2f9a93de32ec1aeca7c3"
+        },
+        "ose.role.md": {
+          "md5": "94680a6072d8d67831ba920f3e896f8e"
+        },
+        "ose.settings.json": {
+          "md5": "1f6c23a742d26a6f8ace913c8e0fbd8e"
+        },
+        "ose.mcp.json": {
+          "md5": "d032e3134e0f9aaf39485bcb818fe921"
+        },
+        "skills/文献综述/SKILL.md": {
+          "md5": "ec3a8b11387b9de05cd0af9bb8429b40"
         }
       }
     }
