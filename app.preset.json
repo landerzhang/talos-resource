@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 11,
-  "builtAt": "2026-06-04T12:33:38.298Z",
+  "version": 12,
+  "builtAt": "2026-06-04T12:33:40.528Z",
   "presets": [
     {
       "id": "sys_default",
@@ -69,6 +69,27 @@
         },
         "skills/文献综述/SKILL.md": {
           "md5": "ec3a8b11387b9de05cd0af9bb8429b40"
+        }
+      }
+    },
+    {
+      "id": "sys_coach",
+      "name": "口语教练",
+      "files": {
+        "ose.agent.json": {
+          "md5": "495d4d698efc319a46c232fd0f753a86"
+        },
+        "ose.role.md": {
+          "md5": "cfeef6ec863a07ab29dbc205f59b308b"
+        },
+        "ose.settings.json": {
+          "md5": "6a3c87f18f90eed4283e7263584913c1"
+        },
+        "ose.mcp.json": {
+          "md5": "021727979c49c8a521f5cec120e4bb29"
+        },
+        "skills/英语口语陪练/SKILL.md": {
+          "md5": "7a01cae140d1bfe7599b6ddf71596a5f"
         }
       }
     }
