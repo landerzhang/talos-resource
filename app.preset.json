@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 1,
-  "builtAt": "2026-06-04T16:58:28.209Z",
+  "version": 2,
+  "builtAt": "2026-06-04T16:58:33.014Z",
   "presets": [
     {
       "id": "Ada",
@@ -24,6 +24,33 @@
         },
         "skills/high-perf-browser/SKILL.md": {
           "md5": "af0d0ad80a96c593a4f3e996bd171c22"
+        }
+      }
+    },
+    {
+      "id": "coder",
+      "name": "Coder",
+      "files": {
+        "ose.agent.json": {
+          "md5": "c3cdd2a5727fdef1631ae90deb703da0"
+        },
+        "ose.role.md": {
+          "md5": "057e6b5fe184b3f070eb01a45c10c4e5"
+        },
+        "ose.settings.json": {
+          "md5": "982e4cc6bd58c012f8d74df8f6138737"
+        },
+        "ose.mcp.json": {
+          "md5": "82fb9f990d72139e17c90d8b53e940ea"
+        },
+        "skills/canvas-design/SKILL.md": {
+          "md5": "9b9ad23c9360a679de2322f6cc760e71"
+        },
+        "skills/clean-architecture/SKILL.md": {
+          "md5": "713cb0032537b9161a741e6b44445728"
+        },
+        "skills/clean-code/SKILL.md": {
+          "md5": "336eca8f1626230d8024af8e4f8bdcab"
         }
       }
     }
