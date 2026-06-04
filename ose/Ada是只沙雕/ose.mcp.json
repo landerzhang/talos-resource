@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "servers": {
+    "filesystem": {
+      "enabled": true,
+      "transport": "stdio",
+      "command": "npx",
+      "args": [
+        "@mcp/filesystem",
+        "~/workspace"
+      ]
+    },
+    "notion": {
+      "enabled": true,
+      "transport": "http",
+      "url": "https://mcp.notion.so/v1",
+      "auth": "Integration"
+    }
+  }
+}

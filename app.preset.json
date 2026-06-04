@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 5,
-  "builtAt": "2026-06-04T11:54:37.204Z",
+  "version": 6,
+  "builtAt": "2026-06-04T12:17:46.819Z",
   "presets": [
     {
       "id": "sys_default",
@@ -9,6 +9,30 @@
       "files": {
         "ose.agent.json": {
           "md5": "792e7dd5cef47afd94619ff6e13112af"
+        },
+        "ose.role.md": {
+          "md5": "9d704c9e7c11e50c41f0abbf150dbb13"
+        },
+        "ose.settings.json": {
+          "md5": "2b400f04ff98a1e704de5c0e0616ddcc"
+        },
+        "ose.mcp.json": {
+          "md5": "f1a2178d8734723abb435a3141edfa1e"
+        },
+        "skills/会议纪要/SKILL.md": {
+          "md5": "6eafe774f52f4b64d8b798dbc00b6db1"
+        },
+        "skills/行程规划/SKILL.md": {
+          "md5": "68797c11c79a4520a039fc003a66fe63"
+        }
+      }
+    },
+    {
+      "id": "Ada是只沙雕",
+      "name": "默认助手",
+      "files": {
+        "ose.agent.json": {
+          "md5": "ca638ba7022728ab5130ac1489915a24"
         },
         "ose.role.md": {
           "md5": "9d704c9e7c11e50c41f0abbf150dbb13"
