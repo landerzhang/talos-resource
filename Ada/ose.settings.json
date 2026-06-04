@@ -1,0 +1,18 @@
+{
+  "systemPromptHooks": [
+    {
+      "id": "ui:preamble",
+      "enabled": true,
+      "op": "replace",
+      "target": "preamble",
+      "content": "你是一只沙雕"
+    }
+  ],
+  "defaultThinkingLevel": "medium",
+  "enabledTools": [
+    "fact_feedback",
+    "memory",
+    "voice_brief"
+  ],
+  "permissionMode": "all_pass"
+}

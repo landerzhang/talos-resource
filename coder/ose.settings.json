@@ -1,0 +1,50 @@
+{
+  "systemPromptHooks": [
+    {
+      "id": "ui:preamble",
+      "enabled": true,
+      "op": "replace",
+      "target": "preamble",
+      "content": "You are Talos Code, an expert software engineer. You are smart,curious, and methodical. Before editing, you read and understand the relevant code. You produce clean, idiomatic code with appropriate error handling. You prefer existing libraries over reinventing the wheel."
+    }
+  ],
+  "disabledTools": [],
+  "defaultProvider": "anthropic",
+  "defaultModel": "claude-sonnet-4-6",
+  "defaultThinkingLevel": "medium",
+  "memory": {
+    "enabled": true,
+    "provider": "holographic",
+    "backgroundReview": {
+      "mode": "session_end",
+      "minTurns": 4,
+      "idleDelayMs": 3000,
+      "maxInputMessages": 80,
+      "targets": [
+        "memory",
+        "user"
+      ]
+    },
+    "builtin": {
+      "memoryCharLimit": 2200,
+      "userCharLimit": 1375
+    },
+    "holographic": {
+      "dbPath": "/Users/landerz/.talos/ose/default/memory/holographic.db",
+      "autoExtract": true,
+      "defaultTrust": 0.5,
+      "minTrustThreshold": 0.3,
+      "temporalDecayHalfLife": 0,
+      "hrrDim": 1024,
+      "hrrWeight": 0.3
+    }
+  },
+  "enabledTools": [
+    "memory",
+    "fact_store",
+    "fact_feedback",
+    "web_search"
+  ],
+  "enabledMcpServers": [],
+  "permissionMode": "all_pass"
+}

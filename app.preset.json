@@ -1,116 +1,29 @@
 {
   "schemaVersion": 1,
-  "version": 24,
-  "builtAt": "2026-06-04T12:35:50.174Z",
+  "version": 1,
+  "builtAt": "2026-06-04T16:58:28.209Z",
   "presets": [
     {
-      "id": "sys_default",
-      "name": "默认助手",
+      "id": "Ada",
+      "name": "Ada",
       "files": {
         "ose.agent.json": {
-          "md5": "923361055c5dc9a6cc50b1c5d2e5804b"
+          "md5": "5d4849751383a8968bc205e75c63e01d"
         },
         "ose.role.md": {
-          "md5": "9d704c9e7c11e50c41f0abbf150dbb13"
+          "md5": "7ace92e8a838c868c4fa8695e90406f5"
         },
         "ose.settings.json": {
-          "md5": "2b400f04ff98a1e704de5c0e0616ddcc"
+          "md5": "20aa22048e8daf373cd2386c1f166bcb"
         },
         "ose.mcp.json": {
-          "md5": "f1a2178d8734723abb435a3141edfa1e"
+          "md5": "7c3df832ded49f5b385fdf8a62b69d68"
         },
-        "skills/会议纪要/SKILL.md": {
-          "md5": "6eafe774f52f4b64d8b798dbc00b6db1"
+        "skills/frontend-design/SKILL.md": {
+          "md5": "060871fbaa19ff68ce5cce5da2da2dc6"
         },
-        "skills/行程规划/SKILL.md": {
-          "md5": "68797c11c79a4520a039fc003a66fe63"
-        }
-      }
-    },
-    {
-      "id": "Ada是只沙雕",
-      "name": "默认助手",
-      "files": {
-        "ose.agent.json": {
-          "md5": "ca638ba7022728ab5130ac1489915a24"
-        },
-        "ose.role.md": {
-          "md5": "9d704c9e7c11e50c41f0abbf150dbb13"
-        },
-        "ose.settings.json": {
-          "md5": "2b400f04ff98a1e704de5c0e0616ddcc"
-        },
-        "ose.mcp.json": {
-          "md5": "f1a2178d8734723abb435a3141edfa1e"
-        },
-        "skills/会议纪要/SKILL.md": {
-          "md5": "6eafe774f52f4b64d8b798dbc00b6db1"
-        },
-        "skills/行程规划/SKILL.md": {
-          "md5": "68797c11c79a4520a039fc003a66fe63"
-        }
-      }
-    },
-    {
-      "id": "sys_coder",
-      "name": "编程伙伴",
-      "files": {
-        "ose.agent.json": {
-          "md5": "073edfb1905c2f9a93de32ec1aeca7c3"
-        },
-        "ose.role.md": {
-          "md5": "94680a6072d8d67831ba920f3e896f8e"
-        },
-        "ose.settings.json": {
-          "md5": "1f6c23a742d26a6f8ace913c8e0fbd8e"
-        },
-        "ose.mcp.json": {
-          "md5": "d032e3134e0f9aaf39485bcb818fe921"
-        },
-        "skills/文献综述/SKILL.md": {
-          "md5": "ec3a8b11387b9de05cd0af9bb8429b40"
-        }
-      }
-    },
-    {
-      "id": "sys_coach",
-      "name": "口语教练",
-      "files": {
-        "ose.agent.json": {
-          "md5": "495d4d698efc319a46c232fd0f753a86"
-        },
-        "ose.role.md": {
-          "md5": "cfeef6ec863a07ab29dbc205f59b308b"
-        },
-        "ose.settings.json": {
-          "md5": "6a3c87f18f90eed4283e7263584913c1"
-        },
-        "ose.mcp.json": {
-          "md5": "021727979c49c8a521f5cec120e4bb29"
-        },
-        "skills/英语口语陪练/SKILL.md": {
-          "md5": "7a01cae140d1bfe7599b6ddf71596a5f"
-        }
-      }
-    },
-    {
-      "id": "口语教练",
-      "name": "口语教练",
-      "files": {
-        "ose.agent.json": {
-          "md5": "c2eacea6cf8f440caee7fb7089af8733"
-        },
-        "ose.role.md": {
-          "md5": "cfeef6ec863a07ab29dbc205f59b308b"
-        },
-        "ose.settings.json": {
-          "md5": "6a3c87f18f90eed4283e7263584913c1"
-        },
-        "ose.mcp.json": {
-          "md5": "021727979c49c8a521f5cec120e4bb29"
-        },
-        "skills/英语口语陪练/SKILL.md": {
-          "md5": "7a01cae140d1bfe7599b6ddf71596a5f"
+        "skills/high-perf-browser/SKILL.md": {
+          "md5": "af0d0ad80a96c593a4f3e996bd171c22"
         }
       }
     }
