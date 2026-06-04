@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "servers": {
+    "github": {
+      "enabled": true,
+      "transport": "http",
+      "url": "https://mcp.github.com/v1",
+      "auth": "OAuth"
+    }
+  }
+}

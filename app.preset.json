@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "version": 2,
+  "builtAt": "2026-06-04T11:34:36.163Z",
+  "presets": [
+    {
+      "id": "sys_default",
+      "name": "test",
+      "files": {
+        "ose.agent.json": {
+          "md5": "94c32f8df0be10d4b27c38c625ed702d"
+        }
+      }
+    }
+  ]
+}

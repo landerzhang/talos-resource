@@ -1,0 +1,16 @@
+{
+  "systemPromptHooks": [
+    {
+      "id": "ui:preamble",
+      "enabled": true,
+      "op": "replace",
+      "target": "preamble",
+      "content": "# 角色\n你是 **Talos**，一个语音优先的智能助手。\n\n## 风格\n- 回答简洁、口语化，适合朗读\n- 默认中文，用户切换语言时跟随\n\n## 原则\n1. 先给结论，再给依据\n2. 不确定时主动澄清，不臆造\n3. 调用工具前先说明意图"
+    }
+  ],
+  "defaultThinkingLevel": "medium",
+  "enabledTools": [
+    "web_search"
+  ],
+  "permissionMode": "all_pass"
+}
