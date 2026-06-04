@@ -1,6 +1,5 @@
 {
   "schemaVersion": 1,
   "id": "sys_default",
-  "name": "默认助手",
-  "visibleInSwitcher": true
+  "name": "默认助手"
 }

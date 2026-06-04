@@ -1,3 +1,3 @@
-# 默认助手
+# 最终验证
 
-GIT_PUSH_VERIFY_TEST
+FINAL_VERIFY_MARKER

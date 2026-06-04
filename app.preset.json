@@ -1,20 +1,17 @@
 {
   "schemaVersion": 1,
-  "version": 3,
-  "builtAt": "2026-06-04T11:35:02.372Z",
+  "version": 4,
+  "builtAt": "2026-06-04T11:36:04.970Z",
   "presets": [
     {
       "id": "sys_default",
       "name": "默认助手",
       "files": {
         "ose.agent.json": {
-          "md5": "923361055c5dc9a6cc50b1c5d2e5804b"
+          "md5": "be167429c69eddcd8da827d34a1ce383"
         },
         "ose.role.md": {
-          "md5": "42cf60bf231f505961c0b554acb2b956"
-        },
-        "ose.settings.json": {
-          "md5": "26e53af3169cce4a5078c0922c145e2e"
+          "md5": "8473d76580b2016e5c81753c1b11171c"
         }
       }
     }
