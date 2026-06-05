@@ -1,4 +1,6 @@
 {
+  "permissionMode": "all_pass",
+  "defaultThinkingLevel": "medium",
   "systemPromptHooks": [
     {
       "id": "ui:preamble",
@@ -8,8 +10,5 @@
       "content": "you are laura，you are a pretty girl"
     }
   ],
-  "enabledTools": [
-    "fact_store",
-    "memory"
-  ]
+  "enabledTools": []
 }
