@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 14,
-  "builtAt": "2026-06-05T02:43:01.961Z",
+  "version": 15,
+  "builtAt": "2026-06-05T02:44:18.434Z",
   "presets": [
     {
       "id": "Ada",
@@ -80,10 +80,10 @@
           "md5": "4bd54d522d8f026be8e292f408d43355"
         },
         "ose.role.md": {
-          "md5": "d41d8cd98f00b204e9800998ecf8427e"
+          "md5": "9793efc65224f59deb7889247f9718b7"
         },
         "ose.settings.json": {
-          "md5": "c0ca63b3435c6c92f668c00dd4e9d7d9"
+          "md5": "b2e6b7b8455f20dede57063638c1187e"
         },
         "ose.mcp.json": {
           "md5": "97a58e8c0309e8b014d44d4a5c97a58d"
