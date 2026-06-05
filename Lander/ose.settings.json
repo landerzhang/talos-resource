@@ -1,4 +1,6 @@
 {
+  "permissionMode": "all_pass",
+  "defaultThinkingLevel": "medium",
   "systemPromptHooks": [
     {
       "id": "ui:preamble",
