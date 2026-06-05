@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 20,
-  "builtAt": "2026-06-05T17:44:40.435Z",
+  "version": 21,
+  "builtAt": "2026-06-05T17:44:42.401Z",
   "presets": [
     {
       "id": "Ada",
@@ -14,7 +14,7 @@
           "md5": "7ace92e8a838c868c4fa8695e90406f5"
         },
         "ose.settings.json": {
-          "md5": "56e7685c4511416cc7c4c75e3da01610"
+          "md5": "cdbf76e15dcc22bf2c2af797c15b0c93"
         },
         "ose.mcp.json": {
           "md5": "021727979c49c8a521f5cec120e4bb29"
