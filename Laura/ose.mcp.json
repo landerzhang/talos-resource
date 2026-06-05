@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "servers": {
+    "memory": {
+      "enabled": true,
+      "transport": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-memory"
+      ]
+    }
+  }
+}

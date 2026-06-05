@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 10,
-  "builtAt": "2026-06-04T17:43:13.549Z",
+  "version": 11,
+  "builtAt": "2026-06-05T02:42:54.760Z",
   "presets": [
     {
       "id": "Ada",
@@ -69,6 +69,27 @@
         },
         "ose.mcp.json": {
           "md5": "021727979c49c8a521f5cec120e4bb29"
+        }
+      }
+    },
+    {
+      "id": "Laura",
+      "name": "Laura",
+      "files": {
+        "ose.agent.json": {
+          "md5": "4bd54d522d8f026be8e292f408d43355"
+        },
+        "ose.role.md": {
+          "md5": "d41d8cd98f00b204e9800998ecf8427e"
+        },
+        "ose.settings.json": {
+          "md5": "c0ca63b3435c6c92f668c00dd4e9d7d9"
+        },
+        "ose.mcp.json": {
+          "md5": "97a58e8c0309e8b014d44d4a5c97a58d"
+        },
+        "skills/clean-architecture/SKILL.md": {
+          "md5": "713cb0032537b9161a741e6b44445728"
         }
       }
     }
