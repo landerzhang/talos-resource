@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 18,
-  "builtAt": "2026-06-05T02:44:25.447Z",
+  "version": 19,
+  "builtAt": "2026-06-05T17:44:38.038Z",
   "presets": [
     {
       "id": "Ada",
@@ -90,6 +90,24 @@
         },
         "skills/clean-architecture/SKILL.md": {
           "md5": "713cb0032537b9161a741e6b44445728"
+        }
+      }
+    },
+    {
+      "id": "ss",
+      "name": "ss",
+      "files": {
+        "ose.agent.json": {
+          "md5": "3b311712992241e779f5a34312382260"
+        },
+        "ose.role.md": {
+          "md5": "9f6e6800cfae7749eb6c486619254b9c"
+        },
+        "ose.settings.json": {
+          "md5": "de216cc55e04563938ff5de5b395d46f"
+        },
+        "ose.mcp.json": {
+          "md5": "021727979c49c8a521f5cec120e4bb29"
         }
       }
     }
