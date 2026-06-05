@@ -1,4 +1,6 @@
 {
+  "permissionMode": "all_pass",
+  "defaultThinkingLevel": "medium",
   "systemPromptHooks": [
     {
       "id": "ui:preamble",
@@ -9,9 +11,6 @@
     }
   ],
   "enabledTools": [
-    "fact_feedback",
-    "fact_store",
-    "memory",
     "voice_brief",
     "web_search"
   ]
