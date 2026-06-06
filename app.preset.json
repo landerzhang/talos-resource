@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 28,
-  "builtAt": "2026-06-05T17:44:56.309Z",
+  "version": 29,
+  "builtAt": "2026-06-06T04:52:13.647Z",
   "presets": [
     {
       "id": "Ada",
@@ -105,6 +105,24 @@
         },
         "ose.settings.json": {
           "md5": "de216cc55e04563938ff5de5b395d46f"
+        },
+        "ose.mcp.json": {
+          "md5": "021727979c49c8a521f5cec120e4bb29"
+        }
+      }
+    },
+    {
+      "id": "Tesr Engineer",
+      "name": "Tester",
+      "files": {
+        "ose.agent.json": {
+          "md5": "2d5fb4209d84f805f5416f40be2f3aa3"
+        },
+        "ose.role.md": {
+          "md5": "3afa666d4a0f517f01c8d75027a10d57"
+        },
+        "ose.settings.json": {
+          "md5": "5343ab55b4ca9760eb221c7279278d37"
         },
         "ose.mcp.json": {
           "md5": "021727979c49c8a521f5cec120e4bb29"
