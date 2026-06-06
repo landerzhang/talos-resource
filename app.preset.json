@@ -1,134 +1,8 @@
 {
   "schemaVersion": 1,
-  "version": 48,
-  "builtAt": "2026-06-06T08:17:34.702Z",
+  "version": 49,
+  "builtAt": "2026-06-06T08:21:45.634Z",
   "presets": [
-    {
-      "id": "Ada",
-      "name": "Ada",
-      "files": {
-        "ose.agent.json": {
-          "md5": "5d4849751383a8968bc205e75c63e01d"
-        },
-        "ose.role.md": {
-          "md5": "7ace92e8a838c868c4fa8695e90406f5"
-        },
-        "ose.settings.json": {
-          "md5": "cdbf76e15dcc22bf2c2af797c15b0c93"
-        },
-        "ose.mcp.json": {
-          "md5": "021727979c49c8a521f5cec120e4bb29"
-        },
-        "skills/frontend-design/SKILL.md": {
-          "md5": "060871fbaa19ff68ce5cce5da2da2dc6"
-        },
-        "skills/high-perf-browser/SKILL.md": {
-          "md5": "af0d0ad80a96c593a4f3e996bd171c22"
-        }
-      }
-    },
-    {
-      "id": "coder",
-      "name": "Coder",
-      "files": {
-        "ose.agent.json": {
-          "md5": "c3cdd2a5727fdef1631ae90deb703da0"
-        },
-        "ose.role.md": {
-          "md5": "057e6b5fe184b3f070eb01a45c10c4e5"
-        },
-        "ose.settings.json": {
-          "md5": "2f082b9e61458ee9e51a2c790fe221cb"
-        },
-        "ose.mcp.json": {
-          "md5": "82fb9f990d72139e17c90d8b53e940ea"
-        },
-        "skills/canvas-design/SKILL.md": {
-          "md5": "9b9ad23c9360a679de2322f6cc760e71"
-        },
-        "skills/clean-architecture/SKILL.md": {
-          "md5": "713cb0032537b9161a741e6b44445728"
-        },
-        "skills/clean-code/SKILL.md": {
-          "md5": "336eca8f1626230d8024af8e4f8bdcab"
-        }
-      }
-    },
-    {
-      "id": "Lander",
-      "name": "Lander",
-      "files": {
-        "ose.agent.json": {
-          "md5": "7538bba60cfe4a88dc0970599c877eac"
-        },
-        "ose.role.md": {
-          "md5": "d41d8cd98f00b204e9800998ecf8427e"
-        },
-        "ose.settings.json": {
-          "md5": "30066f735257a2a5ffb6bf447d0645cc"
-        },
-        "ose.mcp.json": {
-          "md5": "021727979c49c8a521f5cec120e4bb29"
-        }
-      }
-    },
-    {
-      "id": "Laura",
-      "name": "Laura",
-      "files": {
-        "ose.agent.json": {
-          "md5": "4bd54d522d8f026be8e292f408d43355"
-        },
-        "ose.role.md": {
-          "md5": "9793efc65224f59deb7889247f9718b7"
-        },
-        "ose.settings.json": {
-          "md5": "999eb5e5d106d23140cbf36558afc66a"
-        },
-        "ose.mcp.json": {
-          "md5": "97a58e8c0309e8b014d44d4a5c97a58d"
-        },
-        "skills/clean-architecture/SKILL.md": {
-          "md5": "713cb0032537b9161a741e6b44445728"
-        }
-      }
-    },
-    {
-      "id": "ss",
-      "name": "ss",
-      "files": {
-        "ose.agent.json": {
-          "md5": "3b311712992241e779f5a34312382260"
-        },
-        "ose.role.md": {
-          "md5": "9f6e6800cfae7749eb6c486619254b9c"
-        },
-        "ose.settings.json": {
-          "md5": "de216cc55e04563938ff5de5b395d46f"
-        },
-        "ose.mcp.json": {
-          "md5": "021727979c49c8a521f5cec120e4bb29"
-        }
-      }
-    },
-    {
-      "id": "Tesr Engineer",
-      "name": "Tester",
-      "files": {
-        "ose.agent.json": {
-          "md5": "2d5fb4209d84f805f5416f40be2f3aa3"
-        },
-        "ose.role.md": {
-          "md5": "3afa666d4a0f517f01c8d75027a10d57"
-        },
-        "ose.settings.json": {
-          "md5": "5343ab55b4ca9760eb221c7279278d37"
-        },
-        "ose.mcp.json": {
-          "md5": "021727979c49c8a521f5cec120e4bb29"
-        }
-      }
-    },
     {
       "id": "Agent Dev",
       "name": "Agent Dev",
@@ -141,42 +15,6 @@
         },
         "ose.settings.json": {
           "md5": "ce751b55348ce50d889c9361647603ee"
-        },
-        "ose.mcp.json": {
-          "md5": "021727979c49c8a521f5cec120e4bb29"
-        }
-      }
-    },
-    {
-      "id": "Flutter",
-      "name": "Flutter",
-      "files": {
-        "ose.agent.json": {
-          "md5": "741d3fe8b771bd293d856f91eda4f9ad"
-        },
-        "ose.role.md": {
-          "md5": "4c802abf4d05e7ce7903228566c02c99"
-        },
-        "ose.settings.json": {
-          "md5": "c56b446a8f8be859e230d9511e3523cd"
-        },
-        "ose.mcp.json": {
-          "md5": "021727979c49c8a521f5cec120e4bb29"
-        }
-      }
-    },
-    {
-      "id": "Tester Engineer",
-      "name": "Tester",
-      "files": {
-        "ose.agent.json": {
-          "md5": "5dcc10e65587dc8d4fa696d6c162967b"
-        },
-        "ose.role.md": {
-          "md5": "587f4673c8a04e4d30d8c5cc2e8508af"
-        },
-        "ose.settings.json": {
-          "md5": "5fd34712cce5304676c5175a0ed46be2"
         },
         "ose.mcp.json": {
           "md5": "021727979c49c8a521f5cec120e4bb29"
@@ -204,6 +42,42 @@
         },
         "skills/clean-code/SKILL.md": {
           "md5": "336eca8f1626230d8024af8e4f8bdcab"
+        }
+      }
+    },
+    {
+      "id": "Flutter",
+      "name": "Flutter",
+      "files": {
+        "ose.agent.json": {
+          "md5": "4f376042d0c431227ed677940de44b66"
+        },
+        "ose.role.md": {
+          "md5": "4c802abf4d05e7ce7903228566c02c99"
+        },
+        "ose.settings.json": {
+          "md5": "c56b446a8f8be859e230d9511e3523cd"
+        },
+        "ose.mcp.json": {
+          "md5": "021727979c49c8a521f5cec120e4bb29"
+        }
+      }
+    },
+    {
+      "id": "Tester Engineer",
+      "name": "Tester",
+      "files": {
+        "ose.agent.json": {
+          "md5": "5dcc10e65587dc8d4fa696d6c162967b"
+        },
+        "ose.role.md": {
+          "md5": "587f4673c8a04e4d30d8c5cc2e8508af"
+        },
+        "ose.settings.json": {
+          "md5": "5fd34712cce5304676c5175a0ed46be2"
+        },
+        "ose.mcp.json": {
+          "md5": "021727979c49c8a521f5cec120e4bb29"
         }
       }
     }
