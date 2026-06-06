@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "id": "Flutter",
-  "name": "Flutter",
+  "id": "Agent Dev",
+  "name": "Agent Dev",
   "icon": "system",
-  "desc": "Flutter",
+  "desc": "Agent Dev",
   "visibleInSwitcher": true
 }
