@@ -1,65 +1,17 @@
 {
   "schemaVersion": 1,
-  "version": 53,
-  "builtAt": "2026-06-06T08:30:48.734Z",
+  "version": 54,
+  "builtAt": "2026-06-06T08:33:34.962Z",
   "presets": [
     {
-      "id": "Agent Dev",
-      "name": "Agent Dev",
+      "id": "test-agent",
+      "name": "Test",
       "files": {
         "ose.agent.json": {
-          "md5": "3bcc7b3f51f96cf7c660d784e0173554"
+          "md5": "96d1c9a76e5a3e7d3387c86e5fd6e9fa"
         },
         "ose.role.md": {
-          "md5": "b6e2e8882572430f343a6acf61cc3d9a"
-        },
-        "ose.settings.json": {
-          "md5": "ce751b55348ce50d889c9361647603ee"
-        },
-        "ose.mcp.json": {
-          "md5": "021727979c49c8a521f5cec120e4bb29"
-        }
-      }
-    },
-    {
-      "id": "Coder",
-      "name": "Coder",
-      "files": {
-        "ose.agent.json": {
-          "md5": "eaf4ae7f14cff1d6ff3635961e7174ae"
-        },
-        "ose.role.md": {
-          "md5": "6a3e97552f2f2d66d74c38855f955935"
-        },
-        "ose.settings.json": {
-          "md5": "396baf38000b1ca1c27bf8d9081998c1"
-        },
-        "ose.mcp.json": {
-          "md5": "021727979c49c8a521f5cec120e4bb29"
-        },
-        "skills/clean-architecture/SKILL.md": {
-          "md5": "713cb0032537b9161a741e6b44445728"
-        },
-        "skills/clean-code/SKILL.md": {
-          "md5": "336eca8f1626230d8024af8e4f8bdcab"
-        }
-      }
-    },
-    {
-      "id": "Tester Engineer",
-      "name": "Tester",
-      "files": {
-        "ose.agent.json": {
-          "md5": "5dcc10e65587dc8d4fa696d6c162967b"
-        },
-        "ose.role.md": {
-          "md5": "587f4673c8a04e4d30d8c5cc2e8508af"
-        },
-        "ose.settings.json": {
-          "md5": "5fd34712cce5304676c5175a0ed46be2"
-        },
-        "ose.mcp.json": {
-          "md5": "021727979c49c8a521f5cec120e4bb29"
+          "md5": "7ba5401b897f966b4ba7c258c37a8732"
         }
       }
     }
