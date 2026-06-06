@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 63,
-  "builtAt": "2026-06-06T09:17:55.499Z",
+  "version": 64,
+  "builtAt": "2026-06-06T10:27:48.313Z",
   "presets": [
     {
       "id": "Agent Dev",
@@ -42,6 +42,24 @@
         },
         "skills/clean-code/SKILL.md": {
           "md5": "336eca8f1626230d8024af8e4f8bdcab"
+        }
+      }
+    },
+    {
+      "id": "Flutter",
+      "name": "Flutter",
+      "files": {
+        "ose.agent.json": {
+          "md5": "4f376042d0c431227ed677940de44b66"
+        },
+        "ose.role.md": {
+          "md5": "4c802abf4d05e7ce7903228566c02c99"
+        },
+        "ose.settings.json": {
+          "md5": "c56b446a8f8be859e230d9511e3523cd"
+        },
+        "ose.mcp.json": {
+          "md5": "021727979c49c8a521f5cec120e4bb29"
         }
       }
     },
