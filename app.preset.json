@@ -1,26 +1,8 @@
 {
   "schemaVersion": 1,
-  "version": 58,
-  "builtAt": "2026-06-06T08:44:49.250Z",
+  "version": 59,
+  "builtAt": "2026-06-06T08:44:53.087Z",
   "presets": [
-    {
-      "id": "sys_1780735488405",
-      "name": "新 System",
-      "files": {
-        "ose.agent.json": {
-          "md5": "60a8561a64a44e8b8dac1fa0374b12d6"
-        },
-        "ose.role.md": {
-          "md5": "d41d8cd98f00b204e9800998ecf8427e"
-        },
-        "ose.settings.json": {
-          "md5": "30066f735257a2a5ffb6bf447d0645cc"
-        },
-        "ose.mcp.json": {
-          "md5": "021727979c49c8a521f5cec120e4bb29"
-        }
-      }
-    },
     {
       "id": "Agent Dev",
       "name": "Agent Dev",
