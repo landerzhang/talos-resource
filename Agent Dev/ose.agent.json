@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "id": "Coder",
-  "name": "Coder",
+  "id": "Agent Dev",
+  "name": "Agent Dev",
   "icon": "system",
-  "desc": "Coder",
+  "desc": "Agent Dev",
   "visibleInSwitcher": true
 }

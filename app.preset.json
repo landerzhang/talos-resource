@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 40,
-  "builtAt": "2026-06-06T04:52:34.572Z",
+  "version": 41,
+  "builtAt": "2026-06-06T08:17:03.942Z",
   "presets": [
     {
       "id": "Ada",
@@ -123,6 +123,24 @@
         },
         "ose.settings.json": {
           "md5": "5343ab55b4ca9760eb221c7279278d37"
+        },
+        "ose.mcp.json": {
+          "md5": "021727979c49c8a521f5cec120e4bb29"
+        }
+      }
+    },
+    {
+      "id": "Agent Dev",
+      "name": "Agent Dev",
+      "files": {
+        "ose.agent.json": {
+          "md5": "3bcc7b3f51f96cf7c660d784e0173554"
+        },
+        "ose.role.md": {
+          "md5": "b6e2e8882572430f343a6acf61cc3d9a"
+        },
+        "ose.settings.json": {
+          "md5": "ce751b55348ce50d889c9361647603ee"
         },
         "ose.mcp.json": {
           "md5": "021727979c49c8a521f5cec120e4bb29"

@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "id": "Coder",
-  "name": "Coder",
+  "id": "Tester Engineer",
+  "name": "Tester",
   "icon": "system",
-  "desc": "Coder",
+  "desc": "Tester",
   "visibleInSwitcher": true
 }
