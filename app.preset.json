@@ -1,8 +1,26 @@
 {
   "schemaVersion": 1,
-  "version": 65,
-  "builtAt": "2026-06-06T10:28:04.581Z",
+  "version": 66,
+  "builtAt": "2026-06-06T10:57:08.536Z",
   "presets": [
+    {
+      "id": "ose_1780743427556",
+      "name": "新 OSE",
+      "files": {
+        "ose.agent.json": {
+          "md5": "18003c231c7c67041213f30da905b1cd"
+        },
+        "ose.role.md": {
+          "md5": "d41d8cd98f00b204e9800998ecf8427e"
+        },
+        "ose.settings.json": {
+          "md5": "30066f735257a2a5ffb6bf447d0645cc"
+        },
+        "ose.mcp.json": {
+          "md5": "021727979c49c8a521f5cec120e4bb29"
+        }
+      }
+    },
     {
       "id": "Agent Dev",
       "name": "Agent Dev",
@@ -42,6 +60,24 @@
         },
         "skills/clean-code/SKILL.md": {
           "md5": "336eca8f1626230d8024af8e4f8bdcab"
+        }
+      }
+    },
+    {
+      "id": "Flutter",
+      "name": "Flutter",
+      "files": {
+        "ose.agent.json": {
+          "md5": "4f376042d0c431227ed677940de44b66"
+        },
+        "ose.role.md": {
+          "md5": "4c802abf4d05e7ce7903228566c02c99"
+        },
+        "ose.settings.json": {
+          "md5": "c56b446a8f8be859e230d9511e3523cd"
+        },
+        "ose.mcp.json": {
+          "md5": "021727979c49c8a521f5cec120e4bb29"
         }
       }
     },
