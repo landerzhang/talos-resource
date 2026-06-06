@@ -1,0 +1,14 @@
+{
+  "permissionMode": "all_pass",
+  "defaultThinkingLevel": "medium",
+  "systemPromptHooks": [
+    {
+      "id": "ui:preamble",
+      "enabled": true,
+      "op": "replace",
+      "target": "preamble",
+      "content": ""
+    }
+  ],
+  "enabledTools": []
+}

@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "id": "Coder",
+  "name": "Coder",
+  "icon": "system",
+  "desc": "Coder",
+  "visibleInSwitcher": true
+}
