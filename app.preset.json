@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 42,
-  "builtAt": "2026-06-06T08:17:06.627Z",
+  "version": 43,
+  "builtAt": "2026-06-06T08:17:08.471Z",
   "presets": [
     {
       "id": "Ada",
@@ -159,6 +159,24 @@
         },
         "ose.settings.json": {
           "md5": "c56b446a8f8be859e230d9511e3523cd"
+        },
+        "ose.mcp.json": {
+          "md5": "021727979c49c8a521f5cec120e4bb29"
+        }
+      }
+    },
+    {
+      "id": "Tester Engineer",
+      "name": "Tester",
+      "files": {
+        "ose.agent.json": {
+          "md5": "5dcc10e65587dc8d4fa696d6c162967b"
+        },
+        "ose.role.md": {
+          "md5": "587f4673c8a04e4d30d8c5cc2e8508af"
+        },
+        "ose.settings.json": {
+          "md5": "5fd34712cce5304676c5175a0ed46be2"
         },
         "ose.mcp.json": {
           "md5": "021727979c49c8a521f5cec120e4bb29"
