@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 108,
-  "builtAt": "2026-06-07T16:53:30.537Z",
+  "version": 109,
+  "builtAt": "2026-06-07T17:16:57.280Z",
   "presets": [
     {
       "id": "Agent Dev",
@@ -276,24 +276,6 @@
         },
         "ose.settings.json": {
           "md5": "5fd34712cce5304676c5175a0ed46be2"
-        },
-        "ose.mcp.json": {
-          "md5": "021727979c49c8a521f5cec120e4bb29"
-        }
-      }
-    },
-    {
-      "id": "enabled-git",
-      "name": "enabled-git",
-      "files": {
-        "ose.agent.json": {
-          "md5": "b07b07f9cee3b03b99e9c7f969e14be9"
-        },
-        "ose.role.md": {
-          "md5": "d41d8cd98f00b204e9800998ecf8427e"
-        },
-        "ose.settings.json": {
-          "md5": "30066f735257a2a5ffb6bf447d0645cc"
         },
         "ose.mcp.json": {
           "md5": "021727979c49c8a521f5cec120e4bb29"
