@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "id": "enabled-git",
-  "name": "enabled-git",
+  "id": "Tester Engineer",
+  "name": "Tester",
   "icon": "system",
-  "desc": "",
+  "desc": "Tester",
   "visibleInSwitcher": true
 }
