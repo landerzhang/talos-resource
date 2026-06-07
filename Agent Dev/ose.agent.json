@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "id": "enabled-git",
-  "name": "enabled-git",
+  "id": "Agent Dev",
+  "name": "Agent Dev",
   "icon": "system",
-  "desc": "",
+  "desc": "Agent Dev",
   "visibleInSwitcher": true
 }

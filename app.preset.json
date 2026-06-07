@@ -1,14 +1,302 @@
 {
   "schemaVersion": 1,
-  "version": 101,
-  "builtAt": "2026-06-07T15:47:08.443Z",
+  "version": 102,
+  "builtAt": "2026-06-07T16:17:14.072Z",
   "presets": [
     {
-      "id": "enabled-git",
-      "name": "Enabled",
+      "id": "Agent Dev",
+      "name": "Agent Dev",
       "files": {
         "ose.agent.json": {
-          "md5": "911dd095ca5e7856ca9d5368df0c87f5"
+          "md5": "3bcc7b3f51f96cf7c660d784e0173554"
+        },
+        "ose.role.md": {
+          "md5": "b6e2e8882572430f343a6acf61cc3d9a"
+        },
+        "ose.settings.json": {
+          "md5": "ce751b55348ce50d889c9361647603ee"
+        },
+        "ose.mcp.json": {
+          "md5": "97608ba7223da24b09eae89fb2bc1b81"
+        },
+        "skills/apple-calendar/SKILL.md": {
+          "md5": "8d5156534f29cdc7ada541ac59590e9e"
+        },
+        "skills/apple-calendar/scripts/cal-create.sh": {
+          "md5": "057d28184b5f6a0ac855092fc1c9a38b"
+        },
+        "skills/apple-calendar/scripts/cal-delete.sh": {
+          "md5": "8efb3238c36c806052cd73577003145e"
+        },
+        "skills/apple-calendar/scripts/cal-events.sh": {
+          "md5": "54111dd9d7cb3105bd296aa61454ab52"
+        },
+        "skills/apple-calendar/scripts/cal-list.sh": {
+          "md5": "ca7267830aa8d05385fa223e84814ec4"
+        },
+        "skills/apple-calendar/scripts/cal-read.sh": {
+          "md5": "6bb106a494c8f84b43ba722502c49596"
+        },
+        "skills/apple-calendar/scripts/cal-search.sh": {
+          "md5": "c903fad53d2afb1b5ee9ce03e6c85747"
+        },
+        "skills/apple-calendar/scripts/cal-update.sh": {
+          "md5": "ec4fd8529eba41324b9b9e6eb9ee642e"
+        },
+        "skills/pptx/LICENSE.txt": {
+          "md5": "f8515c3694eb11622110ca76c7c15d1b"
+        },
+        "skills/pptx/SKILL.md": {
+          "md5": "f691372cc8651e83018fb0a0bbfe1ae9"
+        },
+        "skills/pptx/editing.md": {
+          "md5": "639f560d8c7d3eab2f0408796473ff8b"
+        },
+        "skills/pptx/pptxgenjs.md": {
+          "md5": "3def45c7cacef2a2f648bc9f1fce337a"
+        },
+        "skills/pptx/scripts/__init__.py": {
+          "md5": "d41d8cd98f00b204e9800998ecf8427e"
+        },
+        "skills/pptx/scripts/add_slide.py": {
+          "md5": "e01e791c85fbfaabc1ea76ecc85b512a"
+        },
+        "skills/pptx/scripts/clean.py": {
+          "md5": "802144f24fd71f6893f19e6bff48ac45"
+        },
+        "skills/pptx/scripts/office/helpers/__init__.py": {
+          "md5": "d41d8cd98f00b204e9800998ecf8427e"
+        },
+        "skills/pptx/scripts/office/helpers/merge_runs.py": {
+          "md5": "7ad1b27e1cdc4d5e6e2ec944ce0c056c"
+        },
+        "skills/pptx/scripts/office/helpers/simplify_redlines.py": {
+          "md5": "27067501a5bad066bd22891d8b6ee040"
+        },
+        "skills/pptx/scripts/office/pack.py": {
+          "md5": "20d61f93e874fd961122dd0da9de7898"
+        },
+        "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-chart.xsd": {
+          "md5": "d480bbfc8419bd13a324e5f4a509ba68"
+        },
+        "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-chartDrawing.xsd": {
+          "md5": "b1e3c6e50f086960fb06970c76b83d5d"
+        },
+        "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-diagram.xsd": {
+          "md5": "cb2abeeed3213366e06e25923bb4ad09"
+        },
+        "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-lockedCanvas.xsd": {
+          "md5": "099b663cecfb444d9878c462e27196f6"
+        },
+        "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-main.xsd": {
+          "md5": "e36b6a6af361a798cd6a355196f3262e"
+        },
+        "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-picture.xsd": {
+          "md5": "8dc2e528b40bc75b897f7cbd74eb533a"
+        },
+        "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-spreadsheetDrawing.xsd": {
+          "md5": "89b18e0f4eea89968240d323657ec5ea"
+        },
+        "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-wordprocessingDrawing.xsd": {
+          "md5": "3c7a916017612be6dca37ceb300724cd"
+        },
+        "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/pml.xsd": {
+          "md5": "75f17beb6f1c7b60f5137983cc021d0b"
+        },
+        "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-additionalCharacteristics.xsd": {
+          "md5": "962a4bb37f96d530c3bc4b9b95202bdf"
+        },
+        "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-bibliography.xsd": {
+          "md5": "9a78511bf5aa7aff89f46d4ab1ae6a81"
+        },
+        "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-commonSimpleTypes.xsd": {
+          "md5": "365b2284f108314ea702ae73381430e7"
+        },
+        "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-customXmlDataProperties.xsd": {
+          "md5": "f438dac055e2d2f17a4e49eef26927b2"
+        },
+        "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-customXmlSchemaProperties.xsd": {
+          "md5": "f8c1c3d7b94aa9bb3f64ccda5c397c61"
+        },
+        "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesCustom.xsd": {
+          "md5": "f1cc4cef27de0b9444ecf2b8e3f913b0"
+        },
+        "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesExtended.xsd": {
+          "md5": "4a21906e8f4c407bd513bd78f0dd81e6"
+        },
+        "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesVariantTypes.xsd": {
+          "md5": "170d93029fd232e0a8fc2d6cbccf030c"
+        },
+        "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-math.xsd": {
+          "md5": "3b545bcc146f69dbe0272fe46c0182c5"
+        },
+        "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-relationshipReference.xsd": {
+          "md5": "54ba24788b69cfb99c4f202c9fd25ba6"
+        },
+        "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/sml.xsd": {
+          "md5": "1a6051a6801d0e4724435676783a93b4"
+        },
+        "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-main.xsd": {
+          "md5": "9500ba4c74862e2ab8e4f38aff1b535f"
+        },
+        "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-officeDrawing.xsd": {
+          "md5": "eb5aff50cecf9539d125affdce694836"
+        },
+        "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-presentationDrawing.xsd": {
+          "md5": "19289122ab70b90607d43e890340fe60"
+        },
+        "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-spreadsheetDrawing.xsd": {
+          "md5": "be1017eb6877758f357e1a9433365460"
+        },
+        "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-wordprocessingDrawing.xsd": {
+          "md5": "846d8c1e1aed9453d57695511d53c9f9"
+        },
+        "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/wml.xsd": {
+          "md5": "b45ef5819b5a41db79f34f79ee15b686"
+        },
+        "skills/pptx/scripts/office/schemas/ISO-IEC29500-4_2016/xml.xsd": {
+          "md5": "ecbcca8814c489a2a630994ca4ebc361"
+        },
+        "skills/pptx/scripts/office/schemas/ecma/fouth-edition/opc-contentTypes.xsd": {
+          "md5": "3588c10c3d23c1d481143daad438a70a"
+        },
+        "skills/pptx/scripts/office/schemas/ecma/fouth-edition/opc-coreProperties.xsd": {
+          "md5": "3d7f4e1f6e7533c4160eefca2b94cc8d"
+        },
+        "skills/pptx/scripts/office/schemas/ecma/fouth-edition/opc-digSig.xsd": {
+          "md5": "d54f856ce4494f809534b6915a346d74"
+        },
+        "skills/pptx/scripts/office/schemas/ecma/fouth-edition/opc-relationships.xsd": {
+          "md5": "814494fe88be0d0d338fb2e6aaa191cf"
+        },
+        "skills/pptx/scripts/office/schemas/mce/mc.xsd": {
+          "md5": "7afc4d2311ae2e584cfbd258d10070dd"
+        },
+        "skills/pptx/scripts/office/schemas/microsoft/wml-2010.xsd": {
+          "md5": "acfab864f1b78eec5fd9e188c17845a8"
+        },
+        "skills/pptx/scripts/office/schemas/microsoft/wml-2012.xsd": {
+          "md5": "e1fdf7c48cedcb8243032f5dd378a7ba"
+        },
+        "skills/pptx/scripts/office/schemas/microsoft/wml-2018.xsd": {
+          "md5": "df23463f49c4dede202dd83df2ac3355"
+        },
+        "skills/pptx/scripts/office/schemas/microsoft/wml-cex-2018.xsd": {
+          "md5": "e9b9f117544076d86945962217ef2d68"
+        },
+        "skills/pptx/scripts/office/schemas/microsoft/wml-cid-2016.xsd": {
+          "md5": "0ad82bc5ef974b934ade6f13109b2eb4"
+        },
+        "skills/pptx/scripts/office/schemas/microsoft/wml-sdtdatahash-2020.xsd": {
+          "md5": "cca381151fe57ef96c929b1239122028"
+        },
+        "skills/pptx/scripts/office/schemas/microsoft/wml-symex-2015.xsd": {
+          "md5": "61334714fbd66b85ef04466301795ee0"
+        },
+        "skills/pptx/scripts/office/soffice.py": {
+          "md5": "080c37e6f18963f350dda51d922c9f06"
+        },
+        "skills/pptx/scripts/office/unpack.py": {
+          "md5": "cb73960efdf081bee7c55b4f31192577"
+        },
+        "skills/pptx/scripts/office/validate.py": {
+          "md5": "4d89970382f0910fd155ea44e6a8f605"
+        },
+        "skills/pptx/scripts/office/validators/__init__.py": {
+          "md5": "9577920dc811fff9762a96d4095d95e5"
+        },
+        "skills/pptx/scripts/office/validators/base.py": {
+          "md5": "7c6cab229c990c54c3e60d58543dcd92"
+        },
+        "skills/pptx/scripts/office/validators/docx.py": {
+          "md5": "9face87a138025355f56880205aacbfe"
+        },
+        "skills/pptx/scripts/office/validators/pptx.py": {
+          "md5": "055cf0df7072d849fc8d2577d8180cb9"
+        },
+        "skills/pptx/scripts/office/validators/redlining.py": {
+          "md5": "4eda0e5afa2863be7c7278c1230be946"
+        },
+        "skills/pptx/scripts/thumbnail.py": {
+          "md5": "23ba48fadfd072a5f75c29e0624727d3"
+        }
+      }
+    },
+    {
+      "id": "Coder",
+      "name": "Coder",
+      "files": {
+        "ose.agent.json": {
+          "md5": "eaf4ae7f14cff1d6ff3635961e7174ae"
+        },
+        "ose.role.md": {
+          "md5": "6a3e97552f2f2d66d74c38855f955935"
+        },
+        "ose.settings.json": {
+          "md5": "396baf38000b1ca1c27bf8d9081998c1"
+        },
+        "ose.mcp.json": {
+          "md5": "9aabe58d37337e6173289fb48d7a5cea"
+        },
+        "skills/clean-architecture/SKILL.md": {
+          "md5": "713cb0032537b9161a741e6b44445728"
+        },
+        "skills/clean-code/SKILL.md": {
+          "md5": "db2bf288f817d58673b496c0109c35a7"
+        },
+        "skills/clean-code/references/code-smells.md": {
+          "md5": "a4578185ee8d85dcdc5b2fc240b9f202"
+        },
+        "skills/clean-code/references/comments-formatting.md": {
+          "md5": "1c7f0744f8defecb7eb143960864a559"
+        },
+        "skills/clean-code/references/error-handling.md": {
+          "md5": "38686e5f345481c6c2f0ed7be91b6982"
+        },
+        "skills/clean-code/references/functions-and-methods.md": {
+          "md5": "f1207fc223c421fb53889e89d9bcd4ff"
+        },
+        "skills/clean-code/references/naming-conventions.md": {
+          "md5": "c0accfcb11af580cf89a163fa8bdc4c9"
+        },
+        "skills/clean-code/references/testing-principles.md": {
+          "md5": "02d9cb6b66a24d79c401ce2d19835579"
+        }
+      }
+    },
+    {
+      "id": "Tester Engineer",
+      "name": "Tester",
+      "files": {
+        "ose.agent.json": {
+          "md5": "5dcc10e65587dc8d4fa696d6c162967b"
+        },
+        "ose.role.md": {
+          "md5": "587f4673c8a04e4d30d8c5cc2e8508af"
+        },
+        "ose.settings.json": {
+          "md5": "5fd34712cce5304676c5175a0ed46be2"
+        },
+        "ose.mcp.json": {
+          "md5": "021727979c49c8a521f5cec120e4bb29"
+        }
+      }
+    },
+    {
+      "id": "enabled-git",
+      "name": "enabled-git",
+      "files": {
+        "ose.agent.json": {
+          "md5": "b07b07f9cee3b03b99e9c7f969e14be9"
+        },
+        "ose.role.md": {
+          "md5": "d41d8cd98f00b204e9800998ecf8427e"
+        },
+        "ose.settings.json": {
+          "md5": "30066f735257a2a5ffb6bf447d0645cc"
+        },
+        "ose.mcp.json": {
+          "md5": "021727979c49c8a521f5cec120e4bb29"
         }
       }
     }

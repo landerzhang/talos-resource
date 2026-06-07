@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "id": "enabled-git",
-  "name": "enabled-git",
+  "id": "Coder",
+  "name": "Coder",
   "icon": "system",
-  "desc": "",
+  "desc": "Coder",
   "visibleInSwitcher": true
 }
