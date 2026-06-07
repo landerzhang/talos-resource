@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "version": 96,
-  "builtAt": "2026-06-07T15:46:44.343Z",
+  "version": 97,
+  "builtAt": "2026-06-07T15:46:46.998Z",
   "presets": [
     {
-      "id": "enabled-agent",
+      "id": "enabled-git",
       "name": "Enabled",
       "files": {
         "ose.agent.json": {
-          "md5": "6566c6d9adb81b49f1d62506c3af98f6"
+          "md5": "911dd095ca5e7856ca9d5368df0c87f5"
         }
       }
     }
