@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 110,
-  "builtAt": "2026-06-07T17:16:59.537Z",
+  "version": 111,
+  "builtAt": "2026-06-07T17:38:41.749Z",
   "presets": [
     {
       "id": "Agent Dev",
@@ -236,7 +236,7 @@
           "md5": "2804d93b74189032a60672a4a1e96778"
         },
         "ose.mcp.json": {
-          "md5": "ca8d9e90ef4346aa79f6d32121d7a007"
+          "md5": "f66a63203b919aeb2dac3634bbffd987"
         },
         "skills/clean-architecture/SKILL.md": {
           "md5": "713cb0032537b9161a741e6b44445728"

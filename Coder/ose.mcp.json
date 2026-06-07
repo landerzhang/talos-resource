@@ -28,7 +28,7 @@
       "transport": "http",
       "url": "https://mcp.linear.app/mcp"
     },
-    "brave_web_search": {
+    "brave": {
       "enabled": false,
       "timeoutMs": 120000,
       "connectTimeoutMs": 30000,
