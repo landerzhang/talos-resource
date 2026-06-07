@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 102,
-  "builtAt": "2026-06-07T16:17:14.072Z",
+  "version": 103,
+  "builtAt": "2026-06-07T16:36:04.000Z",
   "presets": [
     {
       "id": "Agent Dev",
@@ -233,7 +233,7 @@
           "md5": "6a3e97552f2f2d66d74c38855f955935"
         },
         "ose.settings.json": {
-          "md5": "396baf38000b1ca1c27bf8d9081998c1"
+          "md5": "2804d93b74189032a60672a4a1e96778"
         },
         "ose.mcp.json": {
           "md5": "9aabe58d37337e6173289fb48d7a5cea"

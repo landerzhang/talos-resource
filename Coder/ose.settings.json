@@ -11,7 +11,6 @@
     }
   ],
   "enabledTools": [
-    "voice_brief",
-    "web_search"
+    "voice_brief"
   ]
 }
