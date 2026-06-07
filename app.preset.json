@@ -1,14 +1,17 @@
 {
   "schemaVersion": 1,
-  "version": 97,
-  "builtAt": "2026-06-07T15:46:46.998Z",
+  "version": 98,
+  "builtAt": "2026-06-07T15:47:00.430Z",
   "presets": [
     {
-      "id": "enabled-git",
-      "name": "Enabled",
+      "id": "test-agent",
+      "name": "Test",
       "files": {
         "ose.agent.json": {
-          "md5": "911dd095ca5e7856ca9d5368df0c87f5"
+          "md5": "96d1c9a76e5a3e7d3387c86e5fd6e9fa"
+        },
+        "ose.role.md": {
+          "md5": "7ba5401b897f966b4ba7c258c37a8732"
         }
       }
     }
