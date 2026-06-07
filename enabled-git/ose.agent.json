@@ -1,8 +1,0 @@
-{
-  "schemaVersion": 1,
-  "id": "enabled-git",
-  "name": "enabled-git",
-  "icon": "system",
-  "desc": "",
-  "visibleInSwitcher": true
-}
