@@ -1,8 +1,662 @@
 {
   "schemaVersion": 1,
-  "version": 111,
-  "builtAt": "2026-06-07T17:38:41.749Z",
+  "version": 112,
+  "builtAt": "2026-06-08T05:47:24.459Z",
   "presets": [
+    {
+      "id": "General",
+      "name": "General",
+      "files": {
+        "ose.agent.json": {
+          "md5": "a5746481898524aad116855fb8b8ce69"
+        },
+        "ose.role.md": {
+          "md5": "883a426ac7ff195dd042ff4053c7cafd"
+        },
+        "ose.settings.json": {
+          "md5": "3fb7e25da82ef909cc40baa99b043dcc"
+        },
+        "ose.mcp.json": {
+          "md5": "021727979c49c8a521f5cec120e4bb29"
+        },
+        "skills/canvas-design/LICENSE.txt": {
+          "md5": "0ee6429f4c66920b6744d818225fb58f"
+        },
+        "skills/canvas-design/SKILL.md": {
+          "md5": "3004dffc91611ca480b24d952d33ad46"
+        },
+        "skills/canvas-design/canvas-fonts/ArsenalSC-OFL.txt": {
+          "md5": "6ba27859bff46d6040ce48e164b2b6b5"
+        },
+        "skills/canvas-design/canvas-fonts/ArsenalSC-Regular.ttf": {
+          "md5": "e76f911767c21b163d9ee3b706f9e0e6"
+        },
+        "skills/canvas-design/canvas-fonts/BigShoulders-Bold.ttf": {
+          "md5": "8983106a6dca1d6030b724dd678e6802"
+        },
+        "skills/canvas-design/canvas-fonts/BigShoulders-OFL.txt": {
+          "md5": "db35b3b1166369fabfe18614e67ad0f7"
+        },
+        "skills/canvas-design/canvas-fonts/BigShoulders-Regular.ttf": {
+          "md5": "56ef4beaf022e971aebb12fc51520ed3"
+        },
+        "skills/canvas-design/canvas-fonts/Boldonse-OFL.txt": {
+          "md5": "fd1bd9bdc739431ca190a2178b29fe2e"
+        },
+        "skills/canvas-design/canvas-fonts/Boldonse-Regular.ttf": {
+          "md5": "9a9e26d4bec3a3ca4ecf8061f0385cb8"
+        },
+        "skills/canvas-design/canvas-fonts/BricolageGrotesque-Bold.ttf": {
+          "md5": "4bb4ac4c6b2a1f018b30ee1bc4137952"
+        },
+        "skills/canvas-design/canvas-fonts/BricolageGrotesque-OFL.txt": {
+          "md5": "c01c6f2840f06aacc97899ab09ec0e01"
+        },
+        "skills/canvas-design/canvas-fonts/BricolageGrotesque-Regular.ttf": {
+          "md5": "d5c70a695f511ed466e59875ef0bdf0d"
+        },
+        "skills/canvas-design/canvas-fonts/CrimsonPro-Bold.ttf": {
+          "md5": "3f8cf4714d00bda01292f4ff4d187177"
+        },
+        "skills/canvas-design/canvas-fonts/CrimsonPro-Italic.ttf": {
+          "md5": "b802d20210f3eeb13ca5352b1437a93f"
+        },
+        "skills/canvas-design/canvas-fonts/CrimsonPro-OFL.txt": {
+          "md5": "2b62069b71f49dddd2bde54448a986a0"
+        },
+        "skills/canvas-design/canvas-fonts/CrimsonPro-Regular.ttf": {
+          "md5": "2a4af395fa0a5be37496585ede21e28f"
+        },
+        "skills/canvas-design/canvas-fonts/DMMono-OFL.txt": {
+          "md5": "c6a3ddf00ed346cbb45fdfa0ca2c4b9c"
+        },
+        "skills/canvas-design/canvas-fonts/DMMono-Regular.ttf": {
+          "md5": "d6cedcb5ed87d28c55fc2006176e0882"
+        },
+        "skills/canvas-design/canvas-fonts/EricaOne-OFL.txt": {
+          "md5": "0312065d0003e7a4ef6a459afd7e1ccb"
+        },
+        "skills/canvas-design/canvas-fonts/EricaOne-Regular.ttf": {
+          "md5": "7adbb729c7ea7b8738170560ca39bfb4"
+        },
+        "skills/canvas-design/canvas-fonts/GeistMono-Bold.ttf": {
+          "md5": "1e4d1a53e30dffa6cf13fc00572cc5ea"
+        },
+        "skills/canvas-design/canvas-fonts/GeistMono-OFL.txt": {
+          "md5": "9678944f41fc8b46592ca1626f1c0896"
+        },
+        "skills/canvas-design/canvas-fonts/GeistMono-Regular.ttf": {
+          "md5": "5d91aa722946c80822be42e317a3687d"
+        },
+        "skills/canvas-design/canvas-fonts/Gloock-OFL.txt": {
+          "md5": "2cc6d168f1171b25a10e825bb7a54ee7"
+        },
+        "skills/canvas-design/canvas-fonts/Gloock-Regular.ttf": {
+          "md5": "e60b68792e03c1ee7ea7db6d1b800402"
+        },
+        "skills/canvas-design/canvas-fonts/IBMPlexMono-Bold.ttf": {
+          "md5": "9c065ed89fbca4fd46857621e34132e8"
+        },
+        "skills/canvas-design/canvas-fonts/IBMPlexMono-OFL.txt": {
+          "md5": "30de3a874e3399fc7b9d1bec045d3166"
+        },
+        "skills/canvas-design/canvas-fonts/IBMPlexMono-Regular.ttf": {
+          "md5": "62d811bf23c7b413097beb1a3eea6c30"
+        },
+        "skills/canvas-design/canvas-fonts/IBMPlexSerif-Bold.ttf": {
+          "md5": "9224ad1a1164ccbfd909cd05e2aae24e"
+        },
+        "skills/canvas-design/canvas-fonts/IBMPlexSerif-BoldItalic.ttf": {
+          "md5": "2f48e7e09f1b0bf004e0e76940fbd95e"
+        },
+        "skills/canvas-design/canvas-fonts/IBMPlexSerif-Italic.ttf": {
+          "md5": "b8e2b315d876db83b9496ec131bbb95f"
+        },
+        "skills/canvas-design/canvas-fonts/IBMPlexSerif-Regular.ttf": {
+          "md5": "9d4adcff3cc29f4d2c6260ff28261228"
+        },
+        "skills/canvas-design/canvas-fonts/InstrumentSans-Bold.ttf": {
+          "md5": "7b7e5985b6b4edca4dcb9e238ed7cdfa"
+        },
+        "skills/canvas-design/canvas-fonts/InstrumentSans-BoldItalic.ttf": {
+          "md5": "b9c302b4f3b34f540312cd128405109d"
+        },
+        "skills/canvas-design/canvas-fonts/InstrumentSans-Italic.ttf": {
+          "md5": "9e6ec1e11d2bee3fe543add3b072e477"
+        },
+        "skills/canvas-design/canvas-fonts/InstrumentSans-OFL.txt": {
+          "md5": "35856d470a6adf5d5c4a9bcdfd659bcc"
+        },
+        "skills/canvas-design/canvas-fonts/InstrumentSans-Regular.ttf": {
+          "md5": "c7bc5fb9d702788618289a124a213559"
+        },
+        "skills/canvas-design/canvas-fonts/InstrumentSerif-Italic.ttf": {
+          "md5": "3688bcb031ed483b78b279119cb20f2d"
+        },
+        "skills/canvas-design/canvas-fonts/InstrumentSerif-Regular.ttf": {
+          "md5": "a8273d3227de8c7627b7703d7d99747f"
+        },
+        "skills/canvas-design/canvas-fonts/Italiana-OFL.txt": {
+          "md5": "233d74d83b54a786d21a429304775aef"
+        },
+        "skills/canvas-design/canvas-fonts/Italiana-Regular.ttf": {
+          "md5": "41f993176f9c55a66dd73a0fb31aaab9"
+        },
+        "skills/canvas-design/canvas-fonts/JetBrainsMono-Bold.ttf": {
+          "md5": "dd79909d47695bec6574adfe62d648d4"
+        },
+        "skills/canvas-design/canvas-fonts/JetBrainsMono-OFL.txt": {
+          "md5": "2025a2ee80175b15561a8232e67d74d5"
+        },
+        "skills/canvas-design/canvas-fonts/JetBrainsMono-Regular.ttf": {
+          "md5": "c8aa8fde916f60fa79e356d35a5c2fe3"
+        },
+        "skills/canvas-design/canvas-fonts/Jura-Light.ttf": {
+          "md5": "5b271079b9de1a7a05df75012eb40451"
+        },
+        "skills/canvas-design/canvas-fonts/Jura-Medium.ttf": {
+          "md5": "cccba7cb68862fedefc923f87864068a"
+        },
+        "skills/canvas-design/canvas-fonts/Jura-OFL.txt": {
+          "md5": "227060bfebf7bcf3f924fafa47d1237d"
+        },
+        "skills/canvas-design/canvas-fonts/LibreBaskerville-OFL.txt": {
+          "md5": "077df2dc77ecd9ca43d6fbc15ed1c0cb"
+        },
+        "skills/canvas-design/canvas-fonts/LibreBaskerville-Regular.ttf": {
+          "md5": "e02ad52ea492ed6f027d2ff84044a5b8"
+        },
+        "skills/canvas-design/canvas-fonts/Lora-Bold.ttf": {
+          "md5": "78a167bb6ebddcc96866bf5daba4fe19"
+        },
+        "skills/canvas-design/canvas-fonts/Lora-BoldItalic.ttf": {
+          "md5": "c3f6904d9c7fad108022f497fe60f4a9"
+        },
+        "skills/canvas-design/canvas-fonts/Lora-Italic.ttf": {
+          "md5": "c56efa85c2a30bda21bbf998b581e92c"
+        },
+        "skills/canvas-design/canvas-fonts/Lora-OFL.txt": {
+          "md5": "a6f35dd3870842fab964fbcd0ffb2908"
+        },
+        "skills/canvas-design/canvas-fonts/Lora-Regular.ttf": {
+          "md5": "1decd502ef6f36cebe56396a0b9ff2e4"
+        },
+        "skills/canvas-design/canvas-fonts/NationalPark-Bold.ttf": {
+          "md5": "f8a6a06a3c727564377598ac1232bd24"
+        },
+        "skills/canvas-design/canvas-fonts/NationalPark-OFL.txt": {
+          "md5": "67073750dbf1a5d68e56c4c5ffec8f09"
+        },
+        "skills/canvas-design/canvas-fonts/NationalPark-Regular.ttf": {
+          "md5": "a20b79de80eba51f906420ed7afad529"
+        },
+        "skills/canvas-design/canvas-fonts/NothingYouCouldDo-OFL.txt": {
+          "md5": "b3dd666855ec5cd55f351287c80b9eb1"
+        },
+        "skills/canvas-design/canvas-fonts/NothingYouCouldDo-Regular.ttf": {
+          "md5": "201f2e61852901b250a7b14e104de981"
+        },
+        "skills/canvas-design/canvas-fonts/Outfit-Bold.ttf": {
+          "md5": "598af2fd10e115caba962ed16ffb377c"
+        },
+        "skills/canvas-design/canvas-fonts/Outfit-OFL.txt": {
+          "md5": "1b36bbe38eb97e26055123ff42f44fc7"
+        },
+        "skills/canvas-design/canvas-fonts/Outfit-Regular.ttf": {
+          "md5": "3cc4f3dcd4d0c14208ed631edab5ba44"
+        },
+        "skills/canvas-design/canvas-fonts/PixelifySans-Medium.ttf": {
+          "md5": "16b8481408ed9e327d5ae06558aefbe2"
+        },
+        "skills/canvas-design/canvas-fonts/PixelifySans-OFL.txt": {
+          "md5": "1f685eb54479bfa39bced4f64798a900"
+        },
+        "skills/canvas-design/canvas-fonts/PoiretOne-OFL.txt": {
+          "md5": "954ca844e5dd9e31353213c6a142b9a4"
+        },
+        "skills/canvas-design/canvas-fonts/PoiretOne-Regular.ttf": {
+          "md5": "8d173fdfe8239243642da0305de9580e"
+        },
+        "skills/canvas-design/canvas-fonts/RedHatMono-Bold.ttf": {
+          "md5": "4ff145ed634c36229d83236bea5bc329"
+        },
+        "skills/canvas-design/canvas-fonts/RedHatMono-OFL.txt": {
+          "md5": "0787f4274246f7bbf6c429db807e3049"
+        },
+        "skills/canvas-design/canvas-fonts/RedHatMono-Regular.ttf": {
+          "md5": "f3753da0fccc5937f4d150dd9eee63dd"
+        },
+        "skills/canvas-design/canvas-fonts/Silkscreen-OFL.txt": {
+          "md5": "ed13fbda3931ec8f3beb063f8fcd2182"
+        },
+        "skills/canvas-design/canvas-fonts/Silkscreen-Regular.ttf": {
+          "md5": "40e7506fc158b24f574dd92ba4e3bbce"
+        },
+        "skills/canvas-design/canvas-fonts/SmoochSans-Medium.ttf": {
+          "md5": "485ed80e0ff1f280b74a31aa74d3ae78"
+        },
+        "skills/canvas-design/canvas-fonts/SmoochSans-OFL.txt": {
+          "md5": "da377dd00a998b32d88274b2b17c64be"
+        },
+        "skills/canvas-design/canvas-fonts/Tektur-Medium.ttf": {
+          "md5": "e719dc72816eed4c4eaa31eb3e0d24cd"
+        },
+        "skills/canvas-design/canvas-fonts/Tektur-OFL.txt": {
+          "md5": "40fd22c803f19bfbdb6383598f3bfacb"
+        },
+        "skills/canvas-design/canvas-fonts/Tektur-Regular.ttf": {
+          "md5": "e2dec3cbff93e2da8d39016c97dbfc1b"
+        },
+        "skills/canvas-design/canvas-fonts/WorkSans-Bold.ttf": {
+          "md5": "ff4a3058d309a832a33a29fe757f8ca3"
+        },
+        "skills/canvas-design/canvas-fonts/WorkSans-BoldItalic.ttf": {
+          "md5": "7a04ddee535690a80e8572e2b6016143"
+        },
+        "skills/canvas-design/canvas-fonts/WorkSans-Italic.ttf": {
+          "md5": "8ac9bc3e14071b18d06eeb5b42f02b26"
+        },
+        "skills/canvas-design/canvas-fonts/WorkSans-OFL.txt": {
+          "md5": "4bf1338afcac74d0c9ea569f07a87fab"
+        },
+        "skills/canvas-design/canvas-fonts/WorkSans-Regular.ttf": {
+          "md5": "3cfcae501c4ae78f928644aa5d3011a2"
+        },
+        "skills/canvas-design/canvas-fonts/YoungSerif-OFL.txt": {
+          "md5": "fa532d4441344be225f3f46d7ce2aabf"
+        },
+        "skills/canvas-design/canvas-fonts/YoungSerif-Regular.ttf": {
+          "md5": "6d034026f55f08b125c37aad2cd8cfcf"
+        },
+        "skills/docx/.DS_Store": {
+          "md5": "ae1226969165ec31330171a99aecf250"
+        },
+        "skills/docx/LICENSE.txt": {
+          "md5": "f8515c3694eb11622110ca76c7c15d1b"
+        },
+        "skills/docx/SKILL.md": {
+          "md5": "fc4dc313a102d42cd53ca142fa32a992"
+        },
+        "skills/docx/scripts/.DS_Store": {
+          "md5": "d4e5719e513092251e5b1692049ec46b"
+        },
+        "skills/docx/scripts/__init__.py": {
+          "md5": "68b329da9893e34099c7d8ad5cb9c940"
+        },
+        "skills/docx/scripts/accept_changes.py": {
+          "md5": "ddbb446842e4c03d128aa950c2d9cde4"
+        },
+        "skills/docx/scripts/comment.py": {
+          "md5": "e0de2eb3c64293fedf5d27c1130a1647"
+        },
+        "skills/docx/scripts/office/helpers/__init__.py": {
+          "md5": "d41d8cd98f00b204e9800998ecf8427e"
+        },
+        "skills/docx/scripts/office/helpers/merge_runs.py": {
+          "md5": "7ad1b27e1cdc4d5e6e2ec944ce0c056c"
+        },
+        "skills/docx/scripts/office/helpers/simplify_redlines.py": {
+          "md5": "27067501a5bad066bd22891d8b6ee040"
+        },
+        "skills/docx/scripts/office/pack.py": {
+          "md5": "20d61f93e874fd961122dd0da9de7898"
+        },
+        "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-chart.xsd": {
+          "md5": "d480bbfc8419bd13a324e5f4a509ba68"
+        },
+        "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-chartDrawing.xsd": {
+          "md5": "b1e3c6e50f086960fb06970c76b83d5d"
+        },
+        "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-diagram.xsd": {
+          "md5": "cb2abeeed3213366e06e25923bb4ad09"
+        },
+        "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-lockedCanvas.xsd": {
+          "md5": "099b663cecfb444d9878c462e27196f6"
+        },
+        "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-main.xsd": {
+          "md5": "e36b6a6af361a798cd6a355196f3262e"
+        },
+        "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-picture.xsd": {
+          "md5": "8dc2e528b40bc75b897f7cbd74eb533a"
+        },
+        "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-spreadsheetDrawing.xsd": {
+          "md5": "89b18e0f4eea89968240d323657ec5ea"
+        },
+        "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-wordprocessingDrawing.xsd": {
+          "md5": "3c7a916017612be6dca37ceb300724cd"
+        },
+        "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/pml.xsd": {
+          "md5": "75f17beb6f1c7b60f5137983cc021d0b"
+        },
+        "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-additionalCharacteristics.xsd": {
+          "md5": "962a4bb37f96d530c3bc4b9b95202bdf"
+        },
+        "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-bibliography.xsd": {
+          "md5": "9a78511bf5aa7aff89f46d4ab1ae6a81"
+        },
+        "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-commonSimpleTypes.xsd": {
+          "md5": "365b2284f108314ea702ae73381430e7"
+        },
+        "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-customXmlDataProperties.xsd": {
+          "md5": "f438dac055e2d2f17a4e49eef26927b2"
+        },
+        "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-customXmlSchemaProperties.xsd": {
+          "md5": "f8c1c3d7b94aa9bb3f64ccda5c397c61"
+        },
+        "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesCustom.xsd": {
+          "md5": "f1cc4cef27de0b9444ecf2b8e3f913b0"
+        },
+        "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesExtended.xsd": {
+          "md5": "4a21906e8f4c407bd513bd78f0dd81e6"
+        },
+        "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesVariantTypes.xsd": {
+          "md5": "170d93029fd232e0a8fc2d6cbccf030c"
+        },
+        "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-math.xsd": {
+          "md5": "3b545bcc146f69dbe0272fe46c0182c5"
+        },
+        "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-relationshipReference.xsd": {
+          "md5": "54ba24788b69cfb99c4f202c9fd25ba6"
+        },
+        "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/sml.xsd": {
+          "md5": "1a6051a6801d0e4724435676783a93b4"
+        },
+        "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-main.xsd": {
+          "md5": "9500ba4c74862e2ab8e4f38aff1b535f"
+        },
+        "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-officeDrawing.xsd": {
+          "md5": "eb5aff50cecf9539d125affdce694836"
+        },
+        "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-presentationDrawing.xsd": {
+          "md5": "19289122ab70b90607d43e890340fe60"
+        },
+        "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-spreadsheetDrawing.xsd": {
+          "md5": "be1017eb6877758f357e1a9433365460"
+        },
+        "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-wordprocessingDrawing.xsd": {
+          "md5": "846d8c1e1aed9453d57695511d53c9f9"
+        },
+        "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/wml.xsd": {
+          "md5": "b45ef5819b5a41db79f34f79ee15b686"
+        },
+        "skills/docx/scripts/office/schemas/ISO-IEC29500-4_2016/xml.xsd": {
+          "md5": "ecbcca8814c489a2a630994ca4ebc361"
+        },
+        "skills/docx/scripts/office/schemas/ecma/fouth-edition/opc-contentTypes.xsd": {
+          "md5": "3588c10c3d23c1d481143daad438a70a"
+        },
+        "skills/docx/scripts/office/schemas/ecma/fouth-edition/opc-coreProperties.xsd": {
+          "md5": "3d7f4e1f6e7533c4160eefca2b94cc8d"
+        },
+        "skills/docx/scripts/office/schemas/ecma/fouth-edition/opc-digSig.xsd": {
+          "md5": "d54f856ce4494f809534b6915a346d74"
+        },
+        "skills/docx/scripts/office/schemas/ecma/fouth-edition/opc-relationships.xsd": {
+          "md5": "814494fe88be0d0d338fb2e6aaa191cf"
+        },
+        "skills/docx/scripts/office/schemas/mce/mc.xsd": {
+          "md5": "7afc4d2311ae2e584cfbd258d10070dd"
+        },
+        "skills/docx/scripts/office/schemas/microsoft/wml-2010.xsd": {
+          "md5": "acfab864f1b78eec5fd9e188c17845a8"
+        },
+        "skills/docx/scripts/office/schemas/microsoft/wml-2012.xsd": {
+          "md5": "e1fdf7c48cedcb8243032f5dd378a7ba"
+        },
+        "skills/docx/scripts/office/schemas/microsoft/wml-2018.xsd": {
+          "md5": "df23463f49c4dede202dd83df2ac3355"
+        },
+        "skills/docx/scripts/office/schemas/microsoft/wml-cex-2018.xsd": {
+          "md5": "e9b9f117544076d86945962217ef2d68"
+        },
+        "skills/docx/scripts/office/schemas/microsoft/wml-cid-2016.xsd": {
+          "md5": "0ad82bc5ef974b934ade6f13109b2eb4"
+        },
+        "skills/docx/scripts/office/schemas/microsoft/wml-sdtdatahash-2020.xsd": {
+          "md5": "cca381151fe57ef96c929b1239122028"
+        },
+        "skills/docx/scripts/office/schemas/microsoft/wml-symex-2015.xsd": {
+          "md5": "61334714fbd66b85ef04466301795ee0"
+        },
+        "skills/docx/scripts/office/soffice.py": {
+          "md5": "080c37e6f18963f350dda51d922c9f06"
+        },
+        "skills/docx/scripts/office/unpack.py": {
+          "md5": "cb73960efdf081bee7c55b4f31192577"
+        },
+        "skills/docx/scripts/office/validate.py": {
+          "md5": "4d89970382f0910fd155ea44e6a8f605"
+        },
+        "skills/docx/scripts/office/validators/__init__.py": {
+          "md5": "9577920dc811fff9762a96d4095d95e5"
+        },
+        "skills/docx/scripts/office/validators/base.py": {
+          "md5": "7c6cab229c990c54c3e60d58543dcd92"
+        },
+        "skills/docx/scripts/office/validators/docx.py": {
+          "md5": "9face87a138025355f56880205aacbfe"
+        },
+        "skills/docx/scripts/office/validators/pptx.py": {
+          "md5": "055cf0df7072d849fc8d2577d8180cb9"
+        },
+        "skills/docx/scripts/office/validators/redlining.py": {
+          "md5": "4eda0e5afa2863be7c7278c1230be946"
+        },
+        "skills/docx/scripts/templates/comments.xml": {
+          "md5": "1887976243b7506179ad19af95f3fad4"
+        },
+        "skills/docx/scripts/templates/commentsExtended.xml": {
+          "md5": "39bd651f7662a0092852156135a7d0ae"
+        },
+        "skills/docx/scripts/templates/commentsExtensible.xml": {
+          "md5": "e5fe57c24b0b6896e7df8ed92984e923"
+        },
+        "skills/docx/scripts/templates/commentsIds.xml": {
+          "md5": "99667a7995de3e683cf7f9997dd18113"
+        },
+        "skills/docx/scripts/templates/people.xml": {
+          "md5": "3cb770bd46cfdccaf676ca24839736a0"
+        },
+        "skills/pdf/LICENSE.txt": {
+          "md5": "f8515c3694eb11622110ca76c7c15d1b"
+        },
+        "skills/pdf/SKILL.md": {
+          "md5": "1c07e7fc21a8ad77c257900350a61098"
+        },
+        "skills/pdf/forms.md": {
+          "md5": "17def1f9054156caec43e0db22dfeb2d"
+        },
+        "skills/pdf/reference.md": {
+          "md5": "cd1d0e70c13d00804877fa63d75a38f1"
+        },
+        "skills/pdf/scripts/check_bounding_boxes.py": {
+          "md5": "f221feb172d30a7ab90583b17ce7b4b0"
+        },
+        "skills/pdf/scripts/check_fillable_fields.py": {
+          "md5": "f4ac456f3f0450da2fff366725e095ba"
+        },
+        "skills/pdf/scripts/convert_pdf_to_images.py": {
+          "md5": "65e2efc7bc59e5db15aa41f3643dacb3"
+        },
+        "skills/pdf/scripts/create_validation_image.py": {
+          "md5": "92119ea11b21a3c6b3a24131aa376f22"
+        },
+        "skills/pdf/scripts/extract_form_field_info.py": {
+          "md5": "fb66325548ad7b7c4cb86a31c58982f0"
+        },
+        "skills/pdf/scripts/extract_form_structure.py": {
+          "md5": "1fa3730b44fd5511fc986887842962dd"
+        },
+        "skills/pdf/scripts/fill_fillable_fields.py": {
+          "md5": "b9f7110390f229707f20c91cbfac797f"
+        },
+        "skills/pdf/scripts/fill_pdf_form_with_annotations.py": {
+          "md5": "b7c43d638c26bcfd106079456138d7a8"
+        },
+        "skills/xlsx/LICENSE.txt": {
+          "md5": "f8515c3694eb11622110ca76c7c15d1b"
+        },
+        "skills/xlsx/SKILL.md": {
+          "md5": "3c0cfd7e07f4c778c605eeda3a7c7b3a"
+        },
+        "skills/xlsx/scripts/office/helpers/__init__.py": {
+          "md5": "d41d8cd98f00b204e9800998ecf8427e"
+        },
+        "skills/xlsx/scripts/office/helpers/merge_runs.py": {
+          "md5": "7ad1b27e1cdc4d5e6e2ec944ce0c056c"
+        },
+        "skills/xlsx/scripts/office/helpers/simplify_redlines.py": {
+          "md5": "27067501a5bad066bd22891d8b6ee040"
+        },
+        "skills/xlsx/scripts/office/pack.py": {
+          "md5": "20d61f93e874fd961122dd0da9de7898"
+        },
+        "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-chart.xsd": {
+          "md5": "d480bbfc8419bd13a324e5f4a509ba68"
+        },
+        "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-chartDrawing.xsd": {
+          "md5": "b1e3c6e50f086960fb06970c76b83d5d"
+        },
+        "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-diagram.xsd": {
+          "md5": "cb2abeeed3213366e06e25923bb4ad09"
+        },
+        "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-lockedCanvas.xsd": {
+          "md5": "099b663cecfb444d9878c462e27196f6"
+        },
+        "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-main.xsd": {
+          "md5": "e36b6a6af361a798cd6a355196f3262e"
+        },
+        "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-picture.xsd": {
+          "md5": "8dc2e528b40bc75b897f7cbd74eb533a"
+        },
+        "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-spreadsheetDrawing.xsd": {
+          "md5": "89b18e0f4eea89968240d323657ec5ea"
+        },
+        "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/dml-wordprocessingDrawing.xsd": {
+          "md5": "3c7a916017612be6dca37ceb300724cd"
+        },
+        "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/pml.xsd": {
+          "md5": "75f17beb6f1c7b60f5137983cc021d0b"
+        },
+        "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-additionalCharacteristics.xsd": {
+          "md5": "962a4bb37f96d530c3bc4b9b95202bdf"
+        },
+        "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-bibliography.xsd": {
+          "md5": "9a78511bf5aa7aff89f46d4ab1ae6a81"
+        },
+        "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-commonSimpleTypes.xsd": {
+          "md5": "365b2284f108314ea702ae73381430e7"
+        },
+        "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-customXmlDataProperties.xsd": {
+          "md5": "f438dac055e2d2f17a4e49eef26927b2"
+        },
+        "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-customXmlSchemaProperties.xsd": {
+          "md5": "f8c1c3d7b94aa9bb3f64ccda5c397c61"
+        },
+        "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesCustom.xsd": {
+          "md5": "f1cc4cef27de0b9444ecf2b8e3f913b0"
+        },
+        "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesExtended.xsd": {
+          "md5": "4a21906e8f4c407bd513bd78f0dd81e6"
+        },
+        "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-documentPropertiesVariantTypes.xsd": {
+          "md5": "170d93029fd232e0a8fc2d6cbccf030c"
+        },
+        "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-math.xsd": {
+          "md5": "3b545bcc146f69dbe0272fe46c0182c5"
+        },
+        "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/shared-relationshipReference.xsd": {
+          "md5": "54ba24788b69cfb99c4f202c9fd25ba6"
+        },
+        "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/sml.xsd": {
+          "md5": "1a6051a6801d0e4724435676783a93b4"
+        },
+        "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-main.xsd": {
+          "md5": "9500ba4c74862e2ab8e4f38aff1b535f"
+        },
+        "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-officeDrawing.xsd": {
+          "md5": "eb5aff50cecf9539d125affdce694836"
+        },
+        "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-presentationDrawing.xsd": {
+          "md5": "19289122ab70b90607d43e890340fe60"
+        },
+        "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-spreadsheetDrawing.xsd": {
+          "md5": "be1017eb6877758f357e1a9433365460"
+        },
+        "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/vml-wordprocessingDrawing.xsd": {
+          "md5": "846d8c1e1aed9453d57695511d53c9f9"
+        },
+        "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/wml.xsd": {
+          "md5": "b45ef5819b5a41db79f34f79ee15b686"
+        },
+        "skills/xlsx/scripts/office/schemas/ISO-IEC29500-4_2016/xml.xsd": {
+          "md5": "ecbcca8814c489a2a630994ca4ebc361"
+        },
+        "skills/xlsx/scripts/office/schemas/ecma/fouth-edition/opc-contentTypes.xsd": {
+          "md5": "3588c10c3d23c1d481143daad438a70a"
+        },
+        "skills/xlsx/scripts/office/schemas/ecma/fouth-edition/opc-coreProperties.xsd": {
+          "md5": "3d7f4e1f6e7533c4160eefca2b94cc8d"
+        },
+        "skills/xlsx/scripts/office/schemas/ecma/fouth-edition/opc-digSig.xsd": {
+          "md5": "d54f856ce4494f809534b6915a346d74"
+        },
+        "skills/xlsx/scripts/office/schemas/ecma/fouth-edition/opc-relationships.xsd": {
+          "md5": "814494fe88be0d0d338fb2e6aaa191cf"
+        },
+        "skills/xlsx/scripts/office/schemas/mce/mc.xsd": {
+          "md5": "7afc4d2311ae2e584cfbd258d10070dd"
+        },
+        "skills/xlsx/scripts/office/schemas/microsoft/wml-2010.xsd": {
+          "md5": "acfab864f1b78eec5fd9e188c17845a8"
+        },
+        "skills/xlsx/scripts/office/schemas/microsoft/wml-2012.xsd": {
+          "md5": "e1fdf7c48cedcb8243032f5dd378a7ba"
+        },
+        "skills/xlsx/scripts/office/schemas/microsoft/wml-2018.xsd": {
+          "md5": "df23463f49c4dede202dd83df2ac3355"
+        },
+        "skills/xlsx/scripts/office/schemas/microsoft/wml-cex-2018.xsd": {
+          "md5": "e9b9f117544076d86945962217ef2d68"
+        },
+        "skills/xlsx/scripts/office/schemas/microsoft/wml-cid-2016.xsd": {
+          "md5": "0ad82bc5ef974b934ade6f13109b2eb4"
+        },
+        "skills/xlsx/scripts/office/schemas/microsoft/wml-sdtdatahash-2020.xsd": {
+          "md5": "cca381151fe57ef96c929b1239122028"
+        },
+        "skills/xlsx/scripts/office/schemas/microsoft/wml-symex-2015.xsd": {
+          "md5": "61334714fbd66b85ef04466301795ee0"
+        },
+        "skills/xlsx/scripts/office/soffice.py": {
+          "md5": "080c37e6f18963f350dda51d922c9f06"
+        },
+        "skills/xlsx/scripts/office/unpack.py": {
+          "md5": "cb73960efdf081bee7c55b4f31192577"
+        },
+        "skills/xlsx/scripts/office/validate.py": {
+          "md5": "4d89970382f0910fd155ea44e6a8f605"
+        },
+        "skills/xlsx/scripts/office/validators/__init__.py": {
+          "md5": "9577920dc811fff9762a96d4095d95e5"
+        },
+        "skills/xlsx/scripts/office/validators/base.py": {
+          "md5": "7c6cab229c990c54c3e60d58543dcd92"
+        },
+        "skills/xlsx/scripts/office/validators/docx.py": {
+          "md5": "9face87a138025355f56880205aacbfe"
+        },
+        "skills/xlsx/scripts/office/validators/pptx.py": {
+          "md5": "055cf0df7072d849fc8d2577d8180cb9"
+        },
+        "skills/xlsx/scripts/office/validators/redlining.py": {
+          "md5": "4eda0e5afa2863be7c7278c1230be946"
+        },
+        "skills/xlsx/scripts/recalc.py": {
+          "md5": "ea7c16350e2b9a3266647aa92743cd07"
+        }
+      }
+    },
     {
       "id": "Agent Dev",
       "name": "Agent Dev",
@@ -236,7 +890,7 @@
           "md5": "2804d93b74189032a60672a4a1e96778"
         },
         "ose.mcp.json": {
-          "md5": "f66a63203b919aeb2dac3634bbffd987"
+          "md5": "6f350134aca1ceb7e3db88cb4f9d8b95"
         },
         "skills/clean-architecture/SKILL.md": {
           "md5": "713cb0032537b9161a741e6b44445728"

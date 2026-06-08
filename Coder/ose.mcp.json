@@ -27,24 +27,6 @@
       },
       "transport": "http",
       "url": "https://mcp.linear.app/mcp"
-    },
-    "brave": {
-      "enabled": false,
-      "timeoutMs": 120000,
-      "connectTimeoutMs": 30000,
-      "supportsParallelToolCalls": false,
-      "auth": {
-        "type": "bearer",
-        "tokenSource": "keychain",
-        "token": "brave-search",
-        "varName": "BRAVE_API_KEY"
-      },
-      "transport": "stdio",
-      "command": "npx",
-      "args": [
-        "-y",
-        "@modelcontextprotocol/server-brave-search"
-      ]
     }
   }
 }

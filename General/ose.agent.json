@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "id": "General",
+  "name": "General",
+  "icon": "ose",
+  "desc": "General",
+  "visibleInSwitcher": true
+}
