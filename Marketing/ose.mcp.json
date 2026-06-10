@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "servers": {
+    "fetch": {
+      "enabled": true,
+      "timeoutMs": 60000,
+      "connectTimeoutMs": 30000,
+      "supportsParallelToolCalls": false,
+      "metadata": {
+        "title": "Fetch (HTTP)",
+        "source": "modelcontextprotocol/servers (official reference)",
+        "homepage": "https://github.com/modelcontextprotocol/servers/tree/main/src/fetch",
+        "note": "Requires uvx (brew install uv). Fetches web content and converts to LLM-friendly text."
+      },
+      "transport": "stdio",
+      "command": "uvx",
+      "args": [
+        "mcp-server-fetch"
+      ]
+    },
+    "git": {
+      "enabled": true,
+      "timeoutMs": 60000,
+      "connectTimeoutMs": 30000,
+      "supportsParallelToolCalls": false,
+      "metadata": {
+        "title": "Git",
+        "source": "modelcontextprotocol/servers (official reference)",
+        "homepage": "https://github.com/modelcontextprotocol/servers/tree/main/src/git",
+        "note": "Requires uvx (brew install uv). Edit --repository arg to point to your local repo."
+      },
+      "transport": "stdio",
+      "command": "uvx",
+      "args": [
+        "mcp-server-git",
+        "--repository",
+        "~/project/Talos"
+      ]
+    },
+    "time": {
+      "enabled": true,
+      "timeoutMs": 30000,
+      "connectTimeoutMs": 30000,
+      "supportsParallelToolCalls": false,
+      "metadata": {
+        "title": "Time / Timezone",
+        "source": "modelcontextprotocol/servers (official reference)",
+        "homepage": "https://github.com/modelcontextprotocol/servers/tree/main/src/time",
+        "note": "Requires uvx (brew install uv). Current time and timezone conversion."
+      },
+      "transport": "stdio",
+      "command": "uvx",
+      "args": [
+        "mcp-server-time"
+      ]
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "id": "Marketing",
+  "name": "Marketing",
+  "icon": "ose",
+  "desc": "跨境电商",
+  "visibleInSwitcher": true
+}
