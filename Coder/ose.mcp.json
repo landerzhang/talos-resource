@@ -28,6 +28,32 @@
       "transport": "http",
       "url": "https://mcp.linear.app/mcp"
     },
+    "GitHub": {
+      "enabled": false,
+      "timeoutMs": 120000,
+      "connectTimeoutMs": 30000,
+      "supportsParallelToolCalls": false,
+      "auth": {
+        "type": "oauth",
+        "registration": "pre_registered",
+        "clientId": "Ov23liJdZ3wxkFV1arva",
+        "authorizationEndpoint": "https://github.com/login/oauth/authorize",
+        "tokenEndpoint": "https://github.com/login/oauth/access_token",
+        "scopes": [
+          "repo",
+          "read:org",
+          "read:user"
+        ],
+        "requestRefreshToken": true
+      },
+      "metadata": {
+        "title": "GitHub MCP Server",
+        "source": "github",
+        "note": "GitHub 不发布 RFC 8414 metadata 也不支持 DCR：用 pre_registered client_id + 显式端点。OAuth App 回调 URL 需设为 http://127.0.0.1:29351/oauth/callback。"
+      },
+      "transport": "http",
+      "url": "https://api.githubcopilot.com/mcp/"
+    },
     "Brave": {
       "enabled": false,
       "timeoutMs": 120000,
@@ -45,32 +71,6 @@
         "-y",
         "@modelcontextprotocol/server-brave-search"
       ]
-    },
-    "generation": {
-      "enabled": true,
-      "timeoutMs": 600000,
-      "connectTimeoutMs": 30000,
-      "supportsParallelToolCalls": false,
-      "auth": {
-        "type": "bearer",
-        "tokenSource": "keychain",
-        "token": "dashscope-api-key",
-        "varName": "DASHSCOPE_API_KEY"
-      },
-      "metadata": {
-        "title": "文生图/文生视频 (通义万相)",
-        "source": "talos",
-        "note": "Bundled local generation MCP server. command/args 为变量, 由 desktop 运行时注入路径; API key 走客户端 keychain (DASHSCOPE_API_KEY)."
-      },
-      "transport": "stdio",
-      "command": "${TALOS_MCP_GENERATION_NODE}",
-      "args": [
-        "${TALOS_MCP_GENERATION_SCRIPT}"
-      ],
-      "env": {
-        "ELECTRON_RUN_AS_NODE": "1",
-        "GENERATION_IMAGE_MODEL": "wanx2.1-t2i-turbo"
-      }
     }
   }
 }
