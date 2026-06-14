@@ -37,6 +37,7 @@
         "type": "oauth",
         "registration": "pre_registered",
         "clientId": "Ov23liJdZ3wxkFV1arva",
+        "clientSecret": "c4b04bd2125c8e750dfb4bc062d4852278ec2f20",
         "authorizationEndpoint": "https://github.com/login/oauth/authorize",
         "tokenEndpoint": "https://github.com/login/oauth/access_token",
         "scopes": [
