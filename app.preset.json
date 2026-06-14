@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": 122,
-  "builtAt": "2026-06-14T03:56:31.705Z",
+  "version": 123,
+  "builtAt": "2026-06-14T03:56:41.420Z",
   "presets": [
     {
       "id": "Agent Dev",
@@ -290,16 +290,16 @@
           "md5": "6ba27859bff46d6040ce48e164b2b6b5"
         },
         "skills/canvas-design/canvas-fonts/ArsenalSC-Regular.ttf": {
-          "md5": "589414790a2080d8fec35ca81bd8664d"
+          "md5": "3b5dbf21fae9e372b04b2e8f731ef8d0"
         },
         "skills/canvas-design/canvas-fonts/BigShoulders-Bold.ttf": {
-          "md5": "0dcbc1f40c5c7efa6be901adaa3918c2"
+          "md5": "6ccd83b9769ed9689791f34fa564916e"
         },
         "skills/canvas-design/canvas-fonts/BigShoulders-OFL.txt": {
           "md5": "db35b3b1166369fabfe18614e67ad0f7"
         },
         "skills/canvas-design/canvas-fonts/BigShoulders-Regular.ttf": {
-          "md5": "ff6021b9a7538bdfb7aaec0d8d9d1a45"
+          "md5": "dd9aa51486f090891e6cae56ca92d7e5"
         },
         "skills/canvas-design/canvas-fonts/Boldonse-OFL.txt": {
           "md5": "fd1bd9bdc739431ca190a2178b29fe2e"
@@ -308,7 +308,7 @@
           "md5": "9a9e26d4bec3a3ca4ecf8061f0385cb8"
         },
         "skills/canvas-design/canvas-fonts/BricolageGrotesque-Bold.ttf": {
-          "md5": "f1fbb666185b64ca6998d589b0d33860"
+          "md5": "e04d71c5da5ebd140aea022c3a289df8"
         },
         "skills/canvas-design/canvas-fonts/BricolageGrotesque-OFL.txt": {
           "md5": "c01c6f2840f06aacc97899ab09ec0e01"
@@ -320,19 +320,19 @@
           "md5": "3f8cf4714d00bda01292f4ff4d187177"
         },
         "skills/canvas-design/canvas-fonts/CrimsonPro-Italic.ttf": {
-          "md5": "b802d20210f3eeb13ca5352b1437a93f"
+          "md5": "cb0a318837e4cbb05c296696ef806ef9"
         },
         "skills/canvas-design/canvas-fonts/CrimsonPro-OFL.txt": {
           "md5": "2b62069b71f49dddd2bde54448a986a0"
         },
         "skills/canvas-design/canvas-fonts/CrimsonPro-Regular.ttf": {
-          "md5": "2a4af395fa0a5be37496585ede21e28f"
+          "md5": "92e5d14626c9c74a3ac561b68c792af4"
         },
         "skills/canvas-design/canvas-fonts/DMMono-OFL.txt": {
           "md5": "c6a3ddf00ed346cbb45fdfa0ca2c4b9c"
         },
         "skills/canvas-design/canvas-fonts/DMMono-Regular.ttf": {
-          "md5": "d6cedcb5ed87d28c55fc2006176e0882"
+          "md5": "ed4ae1e3c4de56a412a1dd96fdd1cd92"
         },
         "skills/canvas-design/canvas-fonts/EricaOne-OFL.txt": {
           "md5": "0312065d0003e7a4ef6a459afd7e1ccb"
@@ -341,61 +341,61 @@
           "md5": "7adbb729c7ea7b8738170560ca39bfb4"
         },
         "skills/canvas-design/canvas-fonts/GeistMono-Bold.ttf": {
-          "md5": "1e4d1a53e30dffa6cf13fc00572cc5ea"
+          "md5": "5a828ec8406de0cfa655ffd0f88c28a0"
         },
         "skills/canvas-design/canvas-fonts/GeistMono-OFL.txt": {
           "md5": "9678944f41fc8b46592ca1626f1c0896"
         },
         "skills/canvas-design/canvas-fonts/GeistMono-Regular.ttf": {
-          "md5": "235790144e65031a122e9d113154af49"
+          "md5": "4ac2af8c5611ebf797623b62ec88c697"
         },
         "skills/canvas-design/canvas-fonts/Gloock-OFL.txt": {
           "md5": "2cc6d168f1171b25a10e825bb7a54ee7"
         },
         "skills/canvas-design/canvas-fonts/Gloock-Regular.ttf": {
-          "md5": "dc16ed768bf480f0c1316f498ff0b797"
+          "md5": "1aa274de51dfff416352578b682eca84"
         },
         "skills/canvas-design/canvas-fonts/IBMPlexMono-Bold.ttf": {
-          "md5": "e38a1a86779f3c0a206bcfd4568e454a"
+          "md5": "9723cb279789bb202b821cfedeeb7ff4"
         },
         "skills/canvas-design/canvas-fonts/IBMPlexMono-OFL.txt": {
           "md5": "30de3a874e3399fc7b9d1bec045d3166"
         },
         "skills/canvas-design/canvas-fonts/IBMPlexMono-Regular.ttf": {
-          "md5": "e66d81240d0abe89f0f75c51cff3a096"
+          "md5": "176f128a21773aa416a15059b3c982f9"
         },
         "skills/canvas-design/canvas-fonts/IBMPlexSerif-Bold.ttf": {
-          "md5": "9e57cae57d5ff6c20d5c98be77f0b29e"
+          "md5": "29c7747bc8b2af5580fe7de00ed12071"
         },
         "skills/canvas-design/canvas-fonts/IBMPlexSerif-BoldItalic.ttf": {
-          "md5": "b14717a9a34c637a4095cb7c18a366a4"
+          "md5": "de77eec24e379b20d14177bbc03c644c"
         },
         "skills/canvas-design/canvas-fonts/IBMPlexSerif-Italic.ttf": {
-          "md5": "c5766d55764aa6ccd04c98a395ccb7ff"
+          "md5": "3abd53c6edb64be44607dccb1abd2c7d"
         },
         "skills/canvas-design/canvas-fonts/IBMPlexSerif-Regular.ttf": {
-          "md5": "148e656e7d2dfa0760ec9669c460db61"
+          "md5": "cccab4a24acefae3cb9d2797b0978f57"
         },
         "skills/canvas-design/canvas-fonts/InstrumentSans-Bold.ttf": {
-          "md5": "c2d2ff9da6eb5bcc6e6c6ceeabbb3549"
+          "md5": "7b7e5985b6b4edca4dcb9e238ed7cdfa"
         },
         "skills/canvas-design/canvas-fonts/InstrumentSans-BoldItalic.ttf": {
           "md5": "b9c302b4f3b34f540312cd128405109d"
         },
         "skills/canvas-design/canvas-fonts/InstrumentSans-Italic.ttf": {
-          "md5": "d2bf4d8276dfef9fcd75c3c706b78db1"
+          "md5": "86160d28bb522af2f278470fe94d39e9"
         },
         "skills/canvas-design/canvas-fonts/InstrumentSans-OFL.txt": {
           "md5": "35856d470a6adf5d5c4a9bcdfd659bcc"
         },
         "skills/canvas-design/canvas-fonts/InstrumentSans-Regular.ttf": {
-          "md5": "917d4904d0b78e47df22912a7adea22d"
+          "md5": "3234ec6d748cd2d5c2544d9864cc95df"
         },
         "skills/canvas-design/canvas-fonts/InstrumentSerif-Italic.ttf": {
-          "md5": "86573a7ebfd0be46312ff3e7df85d433"
+          "md5": "b570138009930912dfde5f2eff48621b"
         },
         "skills/canvas-design/canvas-fonts/InstrumentSerif-Regular.ttf": {
-          "md5": "a8273d3227de8c7627b7703d7d99747f"
+          "md5": "9b48065f80fedf8e77e95297218478f3"
         },
         "skills/canvas-design/canvas-fonts/Italiana-OFL.txt": {
           "md5": "233d74d83b54a786d21a429304775aef"
@@ -413,10 +413,10 @@
           "md5": "c8aa8fde916f60fa79e356d35a5c2fe3"
         },
         "skills/canvas-design/canvas-fonts/Jura-Light.ttf": {
-          "md5": "e0c464dce27e47e3d7fd4291944c6517"
+          "md5": "c0a0a9e974d7dedbd0b9f6493979a58d"
         },
         "skills/canvas-design/canvas-fonts/Jura-Medium.ttf": {
-          "md5": "32a934d65c9ec921fe6ce914fea0e2a8"
+          "md5": "215ed26b08b7d7c87eecfe6acdb79531"
         },
         "skills/canvas-design/canvas-fonts/Jura-OFL.txt": {
           "md5": "227060bfebf7bcf3f924fafa47d1237d"
@@ -425,13 +425,13 @@
           "md5": "077df2dc77ecd9ca43d6fbc15ed1c0cb"
         },
         "skills/canvas-design/canvas-fonts/LibreBaskerville-Regular.ttf": {
-          "md5": "0c81917e39eb51e32c42b2efb736fc64"
+          "md5": "fb074c1a2b3c82188c5763d2803cfc79"
         },
         "skills/canvas-design/canvas-fonts/Lora-Bold.ttf": {
           "md5": "78a167bb6ebddcc96866bf5daba4fe19"
         },
         "skills/canvas-design/canvas-fonts/Lora-BoldItalic.ttf": {
-          "md5": "a0172a79e4ceca61417dd134552b7346"
+          "md5": "1e14d20e99181ba7d9dbc1ea29594c94"
         },
         "skills/canvas-design/canvas-fonts/Lora-Italic.ttf": {
           "md5": "a4c81f24630337ab5219246d949b8655"
@@ -449,7 +449,7 @@
           "md5": "67073750dbf1a5d68e56c4c5ffec8f09"
         },
         "skills/canvas-design/canvas-fonts/NationalPark-Regular.ttf": {
-          "md5": "a20b79de80eba51f906420ed7afad529"
+          "md5": "725a76f8854cda40e972e2ad0b754e8b"
         },
         "skills/canvas-design/canvas-fonts/NothingYouCouldDo-OFL.txt": {
           "md5": "b3dd666855ec5cd55f351287c80b9eb1"
@@ -467,7 +467,7 @@
           "md5": "3cc4f3dcd4d0c14208ed631edab5ba44"
         },
         "skills/canvas-design/canvas-fonts/PixelifySans-Medium.ttf": {
-          "md5": "16b8481408ed9e327d5ae06558aefbe2"
+          "md5": "8e86f227c51a441798b50a382a23aee3"
         },
         "skills/canvas-design/canvas-fonts/PixelifySans-OFL.txt": {
           "md5": "1f685eb54479bfa39bced4f64798a900"
@@ -476,7 +476,7 @@
           "md5": "954ca844e5dd9e31353213c6a142b9a4"
         },
         "skills/canvas-design/canvas-fonts/PoiretOne-Regular.ttf": {
-          "md5": "8d173fdfe8239243642da0305de9580e"
+          "md5": "4dee6f8ad6b8dc49d7395c94763974c7"
         },
         "skills/canvas-design/canvas-fonts/RedHatMono-Bold.ttf": {
           "md5": "4ff145ed634c36229d83236bea5bc329"
@@ -485,7 +485,7 @@
           "md5": "0787f4274246f7bbf6c429db807e3049"
         },
         "skills/canvas-design/canvas-fonts/RedHatMono-Regular.ttf": {
-          "md5": "f3753da0fccc5937f4d150dd9eee63dd"
+          "md5": "76f90690079fdd89cd29018ec96f1513"
         },
         "skills/canvas-design/canvas-fonts/Silkscreen-OFL.txt": {
           "md5": "ed13fbda3931ec8f3beb063f8fcd2182"
@@ -494,7 +494,7 @@
           "md5": "40e7506fc158b24f574dd92ba4e3bbce"
         },
         "skills/canvas-design/canvas-fonts/SmoochSans-Medium.ttf": {
-          "md5": "7284efb92a1f6c6c8ab10618d35b8ae5"
+          "md5": "485ed80e0ff1f280b74a31aa74d3ae78"
         },
         "skills/canvas-design/canvas-fonts/SmoochSans-OFL.txt": {
           "md5": "da377dd00a998b32d88274b2b17c64be"
@@ -506,13 +506,13 @@
           "md5": "40fd22c803f19bfbdb6383598f3bfacb"
         },
         "skills/canvas-design/canvas-fonts/Tektur-Regular.ttf": {
-          "md5": "e2dec3cbff93e2da8d39016c97dbfc1b"
+          "md5": "5ed0c42074224c61a7b96757c178ed91"
         },
         "skills/canvas-design/canvas-fonts/WorkSans-Bold.ttf": {
-          "md5": "75626d801eac83f8f2cf9af4526d9a05"
+          "md5": "2966377d3ef43e5705659d30e843f81e"
         },
         "skills/canvas-design/canvas-fonts/WorkSans-BoldItalic.ttf": {
-          "md5": "2e05670a92c3b24a86fdf3d775b34e95"
+          "md5": "cb0d879c6509ac9529cf97efea05effa"
         },
         "skills/canvas-design/canvas-fonts/WorkSans-Italic.ttf": {
           "md5": "3b63079f51e717d6e8e7338de68537ab"
@@ -521,7 +521,7 @@
           "md5": "4bf1338afcac74d0c9ea569f07a87fab"
         },
         "skills/canvas-design/canvas-fonts/WorkSans-Regular.ttf": {
-          "md5": "40cd9c7ad95565171ec48da32ef222ec"
+          "md5": "e14db67e8d4524b6d0e3b1bf60c229ec"
         },
         "skills/canvas-design/canvas-fonts/YoungSerif-OFL.txt": {
           "md5": "fa532d4441344be225f3f46d7ce2aabf"
@@ -919,24 +919,6 @@
       }
     },
     {
-      "id": "IB French",
-      "name": "IB French",
-      "files": {
-        "ose.agent.json": {
-          "md5": "5eeba4d5f79329f568662030b9af62a2"
-        },
-        "ose.role.md": {
-          "md5": "6e7cc9d9e2a331df8919fc84e9837933"
-        },
-        "ose.settings.json": {
-          "md5": "f4eb0544bf6cea5e1385175efd2e95de"
-        },
-        "ose.mcp.json": {
-          "md5": "021727979c49c8a521f5cec120e4bb29"
-        }
-      }
-    },
-    {
       "id": "Marketing",
       "name": "Marketing",
       "files": {
@@ -962,7 +944,7 @@
           "md5": "6ba27859bff46d6040ce48e164b2b6b5"
         },
         "skills/canvas-design/canvas-fonts/ArsenalSC-Regular.ttf": {
-          "md5": "3b5dbf21fae9e372b04b2e8f731ef8d0"
+          "md5": "8bc05e6f014b6b4cf52fb532603dcf5b"
         },
         "skills/canvas-design/canvas-fonts/BigShoulders-Bold.ttf": {
           "md5": "66128d89b91d5197d691876760a07f38"
@@ -971,13 +953,13 @@
           "md5": "db35b3b1166369fabfe18614e67ad0f7"
         },
         "skills/canvas-design/canvas-fonts/BigShoulders-Regular.ttf": {
-          "md5": "a5b1ae9b01badacc4c325c5dcbf80d67"
+          "md5": "51e7edd0db5bbf1a29a74b584a8123ed"
         },
         "skills/canvas-design/canvas-fonts/Boldonse-OFL.txt": {
           "md5": "fd1bd9bdc739431ca190a2178b29fe2e"
         },
         "skills/canvas-design/canvas-fonts/Boldonse-Regular.ttf": {
-          "md5": "61f6ca0b1036ed3317a79b4e67065d7e"
+          "md5": "46c5e0c81d56c4f02b0c91d293f0ebd3"
         },
         "skills/canvas-design/canvas-fonts/BricolageGrotesque-Bold.ttf": {
           "md5": "f1fbb666185b64ca6998d589b0d33860"
@@ -986,25 +968,25 @@
           "md5": "c01c6f2840f06aacc97899ab09ec0e01"
         },
         "skills/canvas-design/canvas-fonts/BricolageGrotesque-Regular.ttf": {
-          "md5": "d5c70a695f511ed466e59875ef0bdf0d"
+          "md5": "31b529a36a89b30546cd1e2661ccb879"
         },
         "skills/canvas-design/canvas-fonts/CrimsonPro-Bold.ttf": {
-          "md5": "3f8cf4714d00bda01292f4ff4d187177"
+          "md5": "1b5cc3589c03084237fc2682f585dd7e"
         },
         "skills/canvas-design/canvas-fonts/CrimsonPro-Italic.ttf": {
-          "md5": "b802d20210f3eeb13ca5352b1437a93f"
+          "md5": "64d8a69b13122bb42fd013ca5fc6259f"
         },
         "skills/canvas-design/canvas-fonts/CrimsonPro-OFL.txt": {
           "md5": "2b62069b71f49dddd2bde54448a986a0"
         },
         "skills/canvas-design/canvas-fonts/CrimsonPro-Regular.ttf": {
-          "md5": "cd9ef9d186f7686626778b79499c61d1"
+          "md5": "68d2e4e8f172dab8c3cd4d908d9871e2"
         },
         "skills/canvas-design/canvas-fonts/DMMono-OFL.txt": {
           "md5": "c6a3ddf00ed346cbb45fdfa0ca2c4b9c"
         },
         "skills/canvas-design/canvas-fonts/DMMono-Regular.ttf": {
-          "md5": "c28888721181cdc7fcdbdc13d749a75d"
+          "md5": "d6cedcb5ed87d28c55fc2006176e0882"
         },
         "skills/canvas-design/canvas-fonts/EricaOne-OFL.txt": {
           "md5": "0312065d0003e7a4ef6a459afd7e1ccb"
@@ -1019,7 +1001,7 @@
           "md5": "9678944f41fc8b46592ca1626f1c0896"
         },
         "skills/canvas-design/canvas-fonts/GeistMono-Regular.ttf": {
-          "md5": "d4b2ce2b1fad028368fb3ad90b1c4546"
+          "md5": "40bcdb99c96a3538f20ab50ea82808d7"
         },
         "skills/canvas-design/canvas-fonts/Gloock-OFL.txt": {
           "md5": "2cc6d168f1171b25a10e825bb7a54ee7"
@@ -1028,46 +1010,46 @@
           "md5": "dc16ed768bf480f0c1316f498ff0b797"
         },
         "skills/canvas-design/canvas-fonts/IBMPlexMono-Bold.ttf": {
-          "md5": "b38f6ecffe74a8b85f6b4eba630fa8b6"
+          "md5": "aa9aa1ac7f034dd6eca1dc2b5f9d8839"
         },
         "skills/canvas-design/canvas-fonts/IBMPlexMono-OFL.txt": {
           "md5": "30de3a874e3399fc7b9d1bec045d3166"
         },
         "skills/canvas-design/canvas-fonts/IBMPlexMono-Regular.ttf": {
-          "md5": "e66d81240d0abe89f0f75c51cff3a096"
+          "md5": "96f425f72fa31f18c3c11725f7883496"
         },
         "skills/canvas-design/canvas-fonts/IBMPlexSerif-Bold.ttf": {
-          "md5": "2da3117fe6c32ceec43cbbc2d757a6e3"
+          "md5": "6cbfca49f4f73c48c5dab1c7e7c08597"
         },
         "skills/canvas-design/canvas-fonts/IBMPlexSerif-BoldItalic.ttf": {
           "md5": "2175cbec3b19a0ddfb025d2c04002dc6"
         },
         "skills/canvas-design/canvas-fonts/IBMPlexSerif-Italic.ttf": {
-          "md5": "abd88c0778dc10d7ebed7a1655e8f959"
+          "md5": "3abd53c6edb64be44607dccb1abd2c7d"
         },
         "skills/canvas-design/canvas-fonts/IBMPlexSerif-Regular.ttf": {
-          "md5": "13ccebc8ba58cbfb5c695b72bc7a9eeb"
+          "md5": "dcae762a4b0c7707f9fb55e31635f3d2"
         },
         "skills/canvas-design/canvas-fonts/InstrumentSans-Bold.ttf": {
-          "md5": "3d4803f465c61921744e4b583032607d"
+          "md5": "2d4cdbcc26ad9cc9f1f73b3c668d0e82"
         },
         "skills/canvas-design/canvas-fonts/InstrumentSans-BoldItalic.ttf": {
           "md5": "b9c302b4f3b34f540312cd128405109d"
         },
         "skills/canvas-design/canvas-fonts/InstrumentSans-Italic.ttf": {
-          "md5": "9e6ec1e11d2bee3fe543add3b072e477"
+          "md5": "3ddfc3b701fa190e438abbc44299d38f"
         },
         "skills/canvas-design/canvas-fonts/InstrumentSans-OFL.txt": {
           "md5": "35856d470a6adf5d5c4a9bcdfd659bcc"
         },
         "skills/canvas-design/canvas-fonts/InstrumentSans-Regular.ttf": {
-          "md5": "ed9aa3f4fcb91f2aa9c8b5fd5c6895df"
+          "md5": "bb9ae28aca06046b94807faa1b126d6d"
         },
         "skills/canvas-design/canvas-fonts/InstrumentSerif-Italic.ttf": {
           "md5": "b570138009930912dfde5f2eff48621b"
         },
         "skills/canvas-design/canvas-fonts/InstrumentSerif-Regular.ttf": {
-          "md5": "197aebc4f0bbdfcbb511f0665eebcaef"
+          "md5": "a8273d3227de8c7627b7703d7d99747f"
         },
         "skills/canvas-design/canvas-fonts/Italiana-OFL.txt": {
           "md5": "233d74d83b54a786d21a429304775aef"
@@ -1085,10 +1067,10 @@
           "md5": "c8aa8fde916f60fa79e356d35a5c2fe3"
         },
         "skills/canvas-design/canvas-fonts/Jura-Light.ttf": {
-          "md5": "6e8c802b5100980f04ffb909bb35f1b9"
+          "md5": "2c5ab3d935ec3c49e773b4b8ff9b6779"
         },
         "skills/canvas-design/canvas-fonts/Jura-Medium.ttf": {
-          "md5": "d56a335ba814cf714a22eac2596f5ba2"
+          "md5": "dfaf75389af28d68809e37481df99fff"
         },
         "skills/canvas-design/canvas-fonts/Jura-OFL.txt": {
           "md5": "227060bfebf7bcf3f924fafa47d1237d"
@@ -1097,16 +1079,16 @@
           "md5": "077df2dc77ecd9ca43d6fbc15ed1c0cb"
         },
         "skills/canvas-design/canvas-fonts/LibreBaskerville-Regular.ttf": {
-          "md5": "0c81917e39eb51e32c42b2efb736fc64"
+          "md5": "9b4b47ff25cfaa44e6367fc93aabeb4f"
         },
         "skills/canvas-design/canvas-fonts/Lora-Bold.ttf": {
-          "md5": "78a167bb6ebddcc96866bf5daba4fe19"
+          "md5": "0d03d1e213924df54976d492dcc45a54"
         },
         "skills/canvas-design/canvas-fonts/Lora-BoldItalic.ttf": {
-          "md5": "a71e74b7606cfb1d616810618573f209"
+          "md5": "f5d6e5d9e3c963ed65c977c17169fd60"
         },
         "skills/canvas-design/canvas-fonts/Lora-Italic.ttf": {
-          "md5": "1eeac3b8df476b04bf170e2f0fbc59b3"
+          "md5": "a4c81f24630337ab5219246d949b8655"
         },
         "skills/canvas-design/canvas-fonts/Lora-OFL.txt": {
           "md5": "a6f35dd3870842fab964fbcd0ffb2908"
@@ -1121,7 +1103,7 @@
           "md5": "67073750dbf1a5d68e56c4c5ffec8f09"
         },
         "skills/canvas-design/canvas-fonts/NationalPark-Regular.ttf": {
-          "md5": "a20b79de80eba51f906420ed7afad529"
+          "md5": "226a866baf348f06d90b762145b36321"
         },
         "skills/canvas-design/canvas-fonts/NothingYouCouldDo-OFL.txt": {
           "md5": "b3dd666855ec5cd55f351287c80b9eb1"
@@ -1130,7 +1112,7 @@
           "md5": "201f2e61852901b250a7b14e104de981"
         },
         "skills/canvas-design/canvas-fonts/Outfit-Bold.ttf": {
-          "md5": "301bc692ad6bfdeb5b2531292d61e428"
+          "md5": "1df11a34f842bcbd4a5d715e38dd0ae3"
         },
         "skills/canvas-design/canvas-fonts/Outfit-OFL.txt": {
           "md5": "1b36bbe38eb97e26055123ff42f44fc7"
@@ -1157,49 +1139,49 @@
           "md5": "0787f4274246f7bbf6c429db807e3049"
         },
         "skills/canvas-design/canvas-fonts/RedHatMono-Regular.ttf": {
-          "md5": "f3753da0fccc5937f4d150dd9eee63dd"
+          "md5": "a3b0606cfa19e17f8c656ffb697ee3b7"
         },
         "skills/canvas-design/canvas-fonts/Silkscreen-OFL.txt": {
           "md5": "ed13fbda3931ec8f3beb063f8fcd2182"
         },
         "skills/canvas-design/canvas-fonts/Silkscreen-Regular.ttf": {
-          "md5": "40e7506fc158b24f574dd92ba4e3bbce"
+          "md5": "4c6f2f5bb30c8cd2cbe17641750b7c23"
         },
         "skills/canvas-design/canvas-fonts/SmoochSans-Medium.ttf": {
-          "md5": "485ed80e0ff1f280b74a31aa74d3ae78"
+          "md5": "450a08e452598a93602f97bd8fd6f8ff"
         },
         "skills/canvas-design/canvas-fonts/SmoochSans-OFL.txt": {
           "md5": "da377dd00a998b32d88274b2b17c64be"
         },
         "skills/canvas-design/canvas-fonts/Tektur-Medium.ttf": {
-          "md5": "89fc8803c26b9acd99065d3bbe35935f"
+          "md5": "157679923d9f12e326cdb143187226bc"
         },
         "skills/canvas-design/canvas-fonts/Tektur-OFL.txt": {
           "md5": "40fd22c803f19bfbdb6383598f3bfacb"
         },
         "skills/canvas-design/canvas-fonts/Tektur-Regular.ttf": {
-          "md5": "18098ed5fa45d7c0be0c2ef4d39b220c"
+          "md5": "e2dec3cbff93e2da8d39016c97dbfc1b"
         },
         "skills/canvas-design/canvas-fonts/WorkSans-Bold.ttf": {
-          "md5": "92350be1809f2a28bb96e1cfbc49dd40"
+          "md5": "ebd385384fc7b7ae9ac434ab56f7d958"
         },
         "skills/canvas-design/canvas-fonts/WorkSans-BoldItalic.ttf": {
-          "md5": "7d31dd72b27bb6419ab662b13a148f11"
+          "md5": "daa74d9aceb17f00b2e8b384ccfc1352"
         },
         "skills/canvas-design/canvas-fonts/WorkSans-Italic.ttf": {
-          "md5": "85b13aa127f237a68a614d3d8b7dd129"
+          "md5": "c075f31ed4bc95198a0216690e79cdd3"
         },
         "skills/canvas-design/canvas-fonts/WorkSans-OFL.txt": {
           "md5": "4bf1338afcac74d0c9ea569f07a87fab"
         },
         "skills/canvas-design/canvas-fonts/WorkSans-Regular.ttf": {
-          "md5": "37b737279a9e223f8322e35357b4f173"
+          "md5": "d69c6038c124eb985e84f5e9ab209af1"
         },
         "skills/canvas-design/canvas-fonts/YoungSerif-OFL.txt": {
           "md5": "fa532d4441344be225f3f46d7ce2aabf"
         },
         "skills/canvas-design/canvas-fonts/YoungSerif-Regular.ttf": {
-          "md5": "6d034026f55f08b125c37aad2cd8cfcf"
+          "md5": "61f82e181b6baba615b4946831276f8f"
         },
         "skills/channel-plugins/SKILL.md": {
           "md5": "0a080720eb7b97bfe1ec30f126ab4538"
@@ -1887,24 +1869,6 @@
         },
         "ose.settings.json": {
           "md5": "5fd34712cce5304676c5175a0ed46be2"
-        },
-        "ose.mcp.json": {
-          "md5": "021727979c49c8a521f5cec120e4bb29"
-        }
-      }
-    },
-    {
-      "id": "服装设计师",
-      "name": "服装设计师",
-      "files": {
-        "ose.agent.json": {
-          "md5": "1f7c3beb9433f61388f463bc6df3968e"
-        },
-        "ose.role.md": {
-          "md5": "2693aafd7f8b859df7109403de3987f6"
-        },
-        "ose.settings.json": {
-          "md5": "f1a5e025307cc90b5086af58547d605f"
         },
         "ose.mcp.json": {
           "md5": "021727979c49c8a521f5cec120e4bb29"
